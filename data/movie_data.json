@@ -1,0 +1,283 @@
+[
+    {
+        "title": "Anora",
+        "genres": [
+            "Comédie dramatique"
+        ],
+        "hours": [
+            "11:00",
+            "22:00"
+        ]
+    },
+    {
+        "title": "Le Secret de Khéops",
+        "genres": [
+            "Aventure"
+        ],
+        "hours": [
+            "11:15",
+            "14:15",
+            "16:30",
+            "19:30"
+        ]
+    },
+    {
+        "title": "Le Système Victoria",
+        "genres": [
+            "Drame"
+        ],
+        "hours": [
+            "11:15",
+            "14:30",
+            "20:15",
+            "22:30"
+        ]
+    },
+    {
+        "title": "Mickey 17",
+        "genres": [
+            "Action",
+            "Comédie",
+            "Science Fiction"
+        ],
+        "hours": [
+            "13:45",
+            "19:15",
+            "14:45",
+            "16:15",
+            "17:45",
+            "21:00",
+            "22:15"
+        ]
+    },
+    {
+        "title": "Black Dog",
+        "genres": [
+            "Drame"
+        ],
+        "hours": [
+            "14:15",
+            "21:00"
+        ]
+    },
+    {
+        "title": "L’Attachement",
+        "genres": [
+            "Drame"
+        ],
+        "hours": [
+            "10:30",
+            "14:30",
+            "17:00",
+            "19:45",
+            "22:15"
+        ]
+    },
+    {
+        "title": "Vaiana 2",
+        "genres": [
+            "Aventure",
+            "Animation",
+            "Famille"
+        ],
+        "hours": [
+            "10:45"
+        ]
+    },
+    {
+        "title": "Une nuit au zoo",
+        "genres": [
+            "Aventure",
+            "Animation",
+            "Comédie"
+        ],
+        "hours": [
+            "10:45"
+        ]
+    },
+    {
+        "title": "A Real Pain",
+        "genres": [
+            "Comédie dramatique"
+        ],
+        "hours": [
+            "11:00",
+            "14:00",
+            "17:00",
+            "19:00",
+            "22:00"
+        ]
+    },
+    {
+        "title": "Captain America: Brave New World",
+        "genres": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "hours": [
+            "14:00",
+            "21:15",
+            "11:00",
+            "16:15",
+            "22:30"
+        ]
+    },
+    {
+        "title": "La Vie devant moi",
+        "genres": [
+            "Drame",
+            "Historique"
+        ],
+        "hours": [
+            "11:00",
+            "13:45",
+            "18:30"
+        ]
+    },
+    {
+        "title": "À bicyclette !",
+        "genres": [
+            "Comédie dramatique"
+        ],
+        "hours": [
+            "11:15",
+            "13:30",
+            "15:45",
+            "20:15"
+        ]
+    },
+    {
+        "title": "God Save the Tuche",
+        "genres": [
+            "Comédie"
+        ],
+        "hours": [
+            "11:15",
+            "14:00",
+            "18:00",
+            "20:00"
+        ]
+    },
+    {
+        "title": "The Monkey",
+        "genres": [
+            "Comédie",
+            "Epouvante-horreur"
+        ],
+        "hours": [
+            "22:30",
+            "13:30",
+            "18:00"
+        ]
+    },
+    {
+        "title": "Bridget Jones : folle de lui",
+        "genres": [
+            "Comédie",
+            "Romance"
+        ],
+        "hours": [
+            "13:30",
+            "19:15"
+        ]
+    },
+    {
+        "title": "The Brutalist",
+        "genres": [
+            "Drame"
+        ],
+        "hours": [
+            "13:45",
+            "16:45",
+            "19:15",
+            "20:45"
+        ]
+    },
+    {
+        "title": "Queer",
+        "genres": [
+            "Comédie dramatique"
+        ],
+        "hours": [
+            "14:00",
+            "16:45",
+            "19:00"
+        ]
+    },
+    {
+        "title": "Mercato",
+        "genres": [
+            "Comédie dramatique",
+            "Thriller"
+        ],
+        "hours": [
+            "15:45"
+        ]
+    },
+    {
+        "title": "Dis-moi juste que tu m'aimes",
+        "genres": [
+            "Drame"
+        ],
+        "hours": [
+            "16:00",
+            "20:45"
+        ]
+    },
+    {
+        "title": "Emilia Pérez",
+        "genres": [
+            "Drame",
+            "Comédie musicale",
+            "Thriller"
+        ],
+        "hours": [
+            "16:15"
+        ]
+    },
+    {
+        "title": "Un parfait inconnu",
+        "genres": [
+            "Biopic",
+            "Drame",
+            "Musical"
+        ],
+        "hours": [
+            "16:45",
+            "22:15"
+        ]
+    },
+    {
+        "title": "La Fabrique du mensonge",
+        "genres": [
+            "Biopic",
+            "Drame",
+            "Historique"
+        ],
+        "hours": [
+            "17:15",
+            "21:45"
+        ]
+    },
+    {
+        "title": "Paddington au Pérou",
+        "genres": [
+            "Aventure",
+            "Comédie",
+            "Famille"
+        ],
+        "hours": [
+            "18:30"
+        ]
+    },
+    {
+        "title": "Becoming Led Zeppelin",
+        "genres": [
+            "Musical"
+        ],
+        "hours": [
+            "19:45"
+        ]
+    }
+]
