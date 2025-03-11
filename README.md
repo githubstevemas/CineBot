@@ -27,7 +27,7 @@ Intelligent movie recommendation chatbot that leverages NLP techniques to provid
 
 *Clone the repository :*
 ```
-git clone https://github.com/yourusername/CineBot.git
+git clone https://github.com/githubstevemas/CineBot.git
 cd CineBot
 ```
 
