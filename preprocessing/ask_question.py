@@ -1,7 +1,22 @@
+from datetime import datetime, timedelta
+
 from preprocessing.find_similarity import find_movies_by_similarity
 
 
-def ask_question():
+def ask_date():
+
+    user_date = input("What day do you want to go to the cinema ? ")
+
+    choosen_date = datetime.today().strftime('%Y-%m-%d')
+
+    if user_date == "tomorrow":
+        choosen_date = (datetime.today() +
+                        timedelta(days=1)).strftime('%Y-%m-%d')
+
+    return choosen_date
+
+
+def ask_genre():
 
     while True:
         genre_choice = input("\nQuel genre de film cherchez-vous? ")
@@ -9,9 +24,12 @@ def ask_question():
         matching_movies = find_movies_by_similarity(genre_choice)
 
         if matching_movies:
-            print("\nFilms dans votre cinéma Pathé aujourd'hui :\n")
+            print(f"\nFilms dans votre cinéma Pathé :")
             for movie in matching_movies:
-                print(f" - {movie['title']} // Séances: {movie['hours']}")
+                print(f"\n{movie['title']} [{movie['runtime']} - {movie['reviews']}]")
+                for seances in movie['showtimes']:
+                    print(f"  {seances['startsAt'][0:5]} ({seances['language']})")
+
             # save_similiraty_results(genre_choice, matching_movies)
 
         else:
