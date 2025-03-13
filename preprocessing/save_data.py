@@ -2,7 +2,17 @@ import json
 import os
 
 
-def save_json(movies_to_save):
+def save_movie_theater(movie_theater):
+    # Save json file with movie theater to use
+
+    if not os.path.exists("data"):
+        os.makedirs("data")
+
+    with open('data/movie_theater.json', 'w', encoding='utf-8') as json_file:
+        json.dump({"cinema_ref": movie_theater}, json_file)
+
+
+def save_movies_json(movies_to_save):
     # Save json file with movie list
 
     if not os.path.exists("data"):

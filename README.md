@@ -59,10 +59,9 @@ python main.py
 
 ## Features to come
 
-- Possibility to select your movie theater.
+- Possibility to select your movie theater with list.
 - Possibility to change date and time of day.
 - Web interface (Django).
-- Movies's ratings in results.
 
 <br>
 

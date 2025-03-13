@@ -3,6 +3,12 @@ from datetime import datetime, timedelta
 from preprocessing.find_similarity import find_movies_by_similarity
 
 
+def ask_movie_theater():
+
+    user_choice = input("Which cinema do you want to use (ex : P0057)? ")
+    return user_choice
+
+
 def ask_date():
 
     user_date = input("When do you want to go to the cinema ? ")
