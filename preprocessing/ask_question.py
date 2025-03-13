@@ -5,7 +5,7 @@ from preprocessing.find_similarity import find_movies_by_similarity
 
 def ask_date():
 
-    user_date = input("What day do you want to go to the cinema ? ")
+    user_date = input("When do you want to go to the cinema ? ")
 
     choosen_date = datetime.today().strftime('%Y-%m-%d')
 
@@ -19,23 +19,20 @@ def ask_date():
 def ask_genre():
 
     while True:
-        genre_choice = input("\nQuel genre de film cherchez-vous? ")
+        genre_choice = input("\nWhat kind of movie are you looking for ? ")
 
-        matching_movies = find_movies_by_similarity(genre_choice)
+        matching_movies, genre_found = find_movies_by_similarity(genre_choice)
 
         if matching_movies:
-            print(f"\nFilms dans votre cinéma Pathé :")
+            print(f"\nFilms of the genre {genre_found} in your Pathé cinema :")
             for movie in matching_movies:
                 print(f"\n{movie['title']} [{movie['runtime']} - {movie['reviews']}]")
                 for seances in movie['showtimes']:
                     print(f"  {seances['startsAt'][0:5]} ({seances['language']})")
 
-            # save_similiraty_results(genre_choice, matching_movies)
-
         else:
-            print("Aucun film ne correspond à votre demande.")
-            # save_similiraty_results(genre_choice, matching_movies)
+            print("No movies match your request.")
 
-        another_query = input("\nVoulez-vous chercher un autre film? (y/n) ")
+        another_query = input("\nDo you want to search for another movie? (y/n) ")
         if another_query.lower() != "y":
             break

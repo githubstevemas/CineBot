@@ -2,23 +2,27 @@ import json
 
 from sentence_transformers import SentenceTransformer, util
 
-
 model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
 
 
 def find_movies_by_similarity(user_input):
 
-    similarity_threshold = 0.5
+    similarity_threshold = 0.6  # Change for better results
+
     with open('data/movie_data.json', 'r', encoding='utf-8') as file:
         movies = json.load(file)
 
     movies_with_scores = []
+    best_similarity = 0
+    best_genre = ""
 
     embedding_term = model.encode(user_input.lower(), convert_to_tensor=True)
 
     for movie in movies:
         max_similarity = 0
+
         for genre in movie["genres"]:
+
             embedding_genre = model.encode(genre.lower(),
                                            convert_to_tensor=True)
 
@@ -27,6 +31,11 @@ def find_movies_by_similarity(user_input):
 
             if similarity > max_similarity:
                 max_similarity = similarity
+                # print(f"{genre} : {similarity}")
+
+            if similarity > best_similarity:
+                best_similarity = similarity
+                best_genre = genre
 
         movies_with_scores.append((movie, max_similarity))
 
@@ -39,4 +48,4 @@ def find_movies_by_similarity(user_input):
         if len(top_movies) >= 6:
             break
 
-    return top_movies
+    return top_movies, best_genre

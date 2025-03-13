@@ -1,4 +1,4 @@
-import json
+import os
 
 from preprocessing.ask_question import ask_genre, ask_date
 from preprocessing.extract_data import extract_data_from_url
@@ -20,7 +20,7 @@ def main():
 
             url = f"https://www.allocine.fr/_/showtimes/theater-P0057/d-{date}/"
 
-            print("Running scrap...")
+            print("Retrieving information...")
 
             data = extract_data_from_url(url)
 
@@ -28,16 +28,11 @@ def main():
 
         elif int(choice) == 2:
 
-            try:
-                with open('data/movie_data.json', 'r',
-                          encoding='utf-8') as file:
-                    movies = json.load(file)
+            if not os.path.exists("data/movie_data.json"):
+                print("Json not found, you must scrap before ask")
+                break
 
-                print("Running ask...")
-                ask_genre()
-
-            except Exception as e:
-                print("Data not found")
+            ask_genre()
 
         elif int(choice) == 3:
 
