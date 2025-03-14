@@ -1,0 +1,44 @@
+body {
+    background-color: fff8e8;
+}
+
+.main-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4%;
+}
+
+.main-window {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #3b444e;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.response-container {
+    height: 100%;
+}
+
+.typing-container {
+    display: flex;
+    margin-top: auto;
+    gap: 10px;
+}
+
+.typing-area {
+    width: 400px;
+    height: 80px;
+    border: 2px solid #3b444e;
+    border-radius: 15px;
+}
+
+.enter-button {
+    width: 80px;
+    border: 2px solid #3b444e;
+    border-radius: 15px;
+}

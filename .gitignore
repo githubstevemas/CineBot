@@ -4,4 +4,6 @@ env/
 __pycache__/
 build/
 fetch.spec
-data/
+data/movie_data.json
+data/movie_theater.json
+db.sqlite3
