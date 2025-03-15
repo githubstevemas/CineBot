@@ -5,6 +5,39 @@ from sentence_transformers import SentenceTransformer, util
 model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
 
 
+def find_theater(user_town):
+
+    # Charger le JSON
+    with open("data/theaters_data.json", "r", encoding="utf-8") as file:
+        cinemas = json.load(file)
+
+    found = False
+    matching_cinemas = []
+
+    for cinema in cinemas:
+        if cinema["town-name"].lower() == user_town:
+            found = True
+            matching_cinemas.append(cinema)
+
+    if found:
+
+        theaters_list = []
+        print(f"\nCinema theaters in {user_town.capitalize()} :")
+
+        for cinema in matching_cinemas:
+            print(f"- {cinema['theater-name']} (Ref: {cinema['theater-ref']})")
+
+            theaters_data = {
+                "name": cinema['theater-name'],
+                "ref": cinema['theater-ref']
+            }
+            theaters_list.append(theaters_data)
+
+        return theaters_list
+    else:
+        print("No results.")
+
+
 def find_movies_by_similarity(user_input):
 
     similarity_threshold = 0.6  # Change for better results

@@ -9,7 +9,7 @@ def save_movie_theater(movie_theater):
         os.makedirs("data")
 
     with open('data/movie_theater.json', 'w', encoding='utf-8') as json_file:
-        json.dump({"cinema_ref": movie_theater}, json_file)
+        json.dump(movie_theater, json_file)
 
 
 def save_movies_json(movies_to_save):

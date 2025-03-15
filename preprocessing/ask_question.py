@@ -1,12 +1,31 @@
+import json
 from datetime import datetime, timedelta
 
-from preprocessing.find_similarity import find_movies_by_similarity
+from preprocessing.find_similarity import find_movies_by_similarity, \
+    find_theater
 
 
 def ask_movie_theater():
 
-    user_choice = input("Which cinema do you want to use (ex : P0057)? ")
-    return user_choice
+    user_town = input("\nWhat is your town ? ")
+
+    choosen_town = ""
+    towns_theaters = find_theater(user_town.strip().lower())
+
+    if towns_theaters:
+
+        theater_ref = input("\nType your cinema theater ref (P0057) : ").upper()
+
+        for theater in towns_theaters:
+            if theater_ref == theater['ref']:
+                choosen_town = theater['name']
+                print(theater['name'])
+
+        choosen_theater = {
+            "town": choosen_town,
+            "cinema_ref": theater_ref
+        }
+        return choosen_theater
 
 
 def ask_date():
@@ -29,8 +48,11 @@ def ask_genre():
 
         matching_movies, genre_found = find_movies_by_similarity(genre_choice)
 
+        with open('data/movie_theater.json', 'r', encoding='utf-8') as file:
+            theater = json.load(file)
+
         if matching_movies:
-            print(f"\nFilms of the genre {genre_found} in your Pathé cinema :")
+            print(f"\nFilms of the genre {genre_found} in your {theater['town']} cinema :")
             for movie in matching_movies:
                 print(f"\n{movie['title']} [{movie['runtime']} - {movie['reviews']}]")
                 for seances in movie['showtimes']:

@@ -4,6 +4,7 @@ import os
 from preprocessing.ask_question import ask_genre, ask_date, ask_movie_theater
 from preprocessing.extract_data import extract_data_from_url
 from preprocessing.save_data import save_movies_json, save_movie_theater
+from preprocessing.scrap_theaters import scrap_theaters
 
 
 def main():
@@ -27,7 +28,8 @@ def main():
             with open('data/movie_theater.json', 'r', encoding='utf-8') as file:
                 movie_theater = json.load(file)
 
-            url = f"https://www.allocine.fr/_/showtimes/theater-{movie_theater}/d-{date}/"
+            url = (f"https://www.allocine.fr/_/showtimes/"
+                   f"theater-{movie_theater['cinema_ref']}/d-{date}/")
 
             print("Retrieving information...")
 
@@ -47,6 +49,10 @@ def main():
 
             choosen_theater = ask_movie_theater()
             save_movie_theater(choosen_theater)
+
+        elif int(choice) == 9:
+
+            scrap_theaters()
 
         elif int(choice) == 0:
 

@@ -1,0 +1,2982 @@
+[
+    {
+        "town-name": "Bourg-en-Bresse",
+        "theater-name": "L'Amphi",
+        "theater-ref": "P8109"
+    },
+    {
+        "town-name": "Bourg-en-Bresse",
+        "theater-name": "La Grenette",
+        "theater-ref": "P0571"
+    },
+    {
+        "town-name": "Oyonnax",
+        "theater-name": "Cinéma Atmosphère",
+        "theater-ref": "P0875"
+    },
+    {
+        "town-name": "Oyonnax",
+        "theater-name": "Centre culturel Aragon",
+        "theater-ref": "P0874"
+    },
+    {
+        "town-name": "Laon",
+        "theater-name": "Ciné Laon",
+        "theater-ref": "P0470"
+    },
+    {
+        "town-name": "Laon",
+        "theater-name": "Maison des Arts et Loisirs",
+        "theater-ref": "P0467"
+    },
+    {
+        "town-name": "Laon",
+        "theater-name": "Ciné Jeune de L'Aisne",
+        "theater-ref": "W0200"
+    },
+    {
+        "town-name": "Saint-Quentin",
+        "theater-name": "CGR Saint-Quentin",
+        "theater-ref": "P0798"
+    },
+    {
+        "town-name": "Saint-Quentin",
+        "theater-name": "Cinéma itinérant de l'Aisne",
+        "theater-ref": "W2102"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Pathé Nice - Lingostière - IMAX",
+        "theater-ref": "P0796"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Pathé Nice - Massena",
+        "theater-ref": "P0603"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Cinéma Variétés",
+        "theater-ref": "P0240"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Cinéma Rialto",
+        "theater-ref": "P0238"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Pathé Gare du Sud - Dolby Cinema",
+        "theater-ref": "P0602"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Cinéma Jean-Paul Belmondo (ex Mercury)",
+        "theater-ref": "P0608"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Cinémathèque de Nice",
+        "theater-ref": "P1024"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Megarama Nice",
+        "theater-ref": "W0601"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Espace Magnan",
+        "theater-ref": "P1076"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "L'Eclat-Villa Arson",
+        "theater-ref": "W0610"
+    },
+    {
+        "town-name": "Nice",
+        "theater-name": "Forum Jorge François",
+        "theater-ref": "W0600"
+    },
+    {
+        "town-name": "Cannes",
+        "theater-name": "Cinéma Olympia Cannes salles 1 à 4",
+        "theater-ref": "P0197"
+    },
+    {
+        "town-name": "Cannes",
+        "theater-name": "Cinéma Les Arcades",
+        "theater-ref": "P0116"
+    },
+    {
+        "town-name": "Cannes",
+        "theater-name": "Studio 13 - MJC Picaud",
+        "theater-ref": "P0263"
+    },
+    {
+        "town-name": "Cannes",
+        "theater-name": "Cinéma Alexandre III",
+        "theater-ref": "W0650"
+    },
+    {
+        "town-name": "Cannes",
+        "theater-name": "Cinéma Olympia Cannes salles 5 à 9",
+        "theater-ref": "W0641"
+    },
+    {
+        "town-name": "Cannes",
+        "theater-name": "L'Espace Miramar",
+        "theater-ref": "W0640"
+    },
+    {
+        "town-name": "Cannes La Bocca",
+        "theater-name": "Cineum Cannes - IMAX",
+        "theater-ref": "S4383"
+    },
+    {
+        "town-name": "Cannes La Bocca",
+        "theater-name": "Le Raimu",
+        "theater-ref": "P1033"
+    },
+    {
+        "town-name": "Cannes La Bocca",
+        "theater-name": "Theatre La Licorne",
+        "theater-ref": "P0752"
+    },
+    {
+        "town-name": "Escragnolles",
+        "theater-name": "Salles Saint Pont",
+        "theater-ref": "W0651"
+    },
+    {
+        "town-name": "Escragnolles",
+        "theater-name": "Salle Saint Pont",
+        "theater-ref": "W0655"
+    },
+    {
+        "town-name": "Valbonne",
+        "theater-name": "Les Visiteurs du Soir",
+        "theater-ref": "P1762"
+    },
+    {
+        "town-name": "Valbonne",
+        "theater-name": "Le Cinéma de l'Alma",
+        "theater-ref": "W0656"
+    },
+    {
+        "town-name": "Mandelieu-la-Napoule",
+        "theater-name": "Salle Léonard de Vinci",
+        "theater-ref": "P4960"
+    },
+    {
+        "town-name": "Mandelieu-la-Napoule",
+        "theater-name": "Plein Air Mandelieu (Théâtre Robinson)",
+        "theater-ref": "W6210"
+    },
+    {
+        "town-name": "Le Cannet",
+        "theater-name": "Le Cannet Toiles",
+        "theater-ref": "P1128"
+    },
+    {
+        "town-name": "Le Cannet",
+        "theater-name": "CINETOILE ROCHEVILLE",
+        "theater-ref": "C0611"
+    },
+    {
+        "town-name": "Antibes",
+        "theater-name": "Casino Cinéma",
+        "theater-ref": "P0449"
+    },
+    {
+        "town-name": "Antibes",
+        "theater-name": "Cineplanet Antibes - Dolby Cinema",
+        "theater-ref": "W0660"
+    },
+    {
+        "town-name": "Cagnes-sur-Mer",
+        "theater-name": "CGR Cagnes-sur-mer",
+        "theater-ref": "W0681"
+    },
+    {
+        "town-name": "Cagnes-sur-Mer",
+        "theater-name": "Cinema Espace Centre",
+        "theater-ref": "P1023"
+    },
+    {
+        "town-name": "Aubenas",
+        "theater-name": "Le Navire",
+        "theater-ref": "P1982"
+    },
+    {
+        "town-name": "Aubenas",
+        "theater-name": "La Maison de l'Image",
+        "theater-ref": "W0720"
+    },
+    {
+        "town-name": "Aubenas",
+        "theater-name": "Maison de l'image - Salle Le Bournot",
+        "theater-ref": "W0710"
+    },
+    {
+        "town-name": "Lamastre",
+        "theater-name": "Ecran Village Lamastre",
+        "theater-ref": "P7031"
+    },
+    {
+        "town-name": "Lamastre",
+        "theater-name": "Ecran Village Lamastre Plein air 1",
+        "theater-ref": "G042M"
+    },
+    {
+        "town-name": "Lamastre",
+        "theater-name": "Ecran Village Lamastre Plein air 2",
+        "theater-ref": "G042N"
+    },
+    {
+        "town-name": "Saint-Péray",
+        "theater-name": "Ecran Village Saint Péray Plein air",
+        "theater-ref": "G0433"
+    },
+    {
+        "town-name": "Saint-Péray",
+        "theater-name": "Ecran Village Crussol Plein air",
+        "theater-ref": "G0430"
+    },
+    {
+        "town-name": "Le Cheylard",
+        "theater-name": "Vox",
+        "theater-ref": "P0830"
+    },
+    {
+        "town-name": "Le Cheylard",
+        "theater-name": "Ecran Village Le Cheylard Plein air",
+        "theater-ref": "G042O"
+    },
+    {
+        "town-name": "Saint-Paul-le-Jeune",
+        "theater-name": "Maison de l'image - St Paul Le Jeune",
+        "theater-ref": "W7552"
+    },
+    {
+        "town-name": "Saint-Paul-le-Jeune",
+        "theater-name": "Les Toiles des Calades",
+        "theater-ref": "W7460"
+    },
+    {
+        "town-name": "Saint-Pierreville",
+        "theater-name": "Maison de l'image Saint-Pierreville",
+        "theater-ref": "W0713"
+    },
+    {
+        "town-name": "Saint-Pierreville",
+        "theater-name": "L'Image Buissonnière Saint Pierreville",
+        "theater-ref": "W7190"
+    },
+    {
+        "town-name": "Vernoux-en-Vivarais",
+        "theater-name": "Espace Culturel Louis Nodon",
+        "theater-ref": "P7032"
+    },
+    {
+        "town-name": "Vernoux-en-Vivarais",
+        "theater-name": "Ecran Village Vernoux plein air",
+        "theater-ref": "G04PL"
+    },
+    {
+        "town-name": "Foix",
+        "theater-name": "Le Rex",
+        "theater-ref": "P1424"
+    },
+    {
+        "town-name": "Foix",
+        "theater-name": "L'Estive",
+        "theater-ref": "P8108"
+    },
+    {
+        "town-name": "Narbonne",
+        "theater-name": "CGR Narbonne",
+        "theater-ref": "P1093"
+    },
+    {
+        "town-name": "Narbonne",
+        "theater-name": "Le Cinéma",
+        "theater-ref": "P2136"
+    },
+    {
+        "town-name": "Narbonne",
+        "theater-name": "Théâtre Cinéma Scène nationale Grand Narbonne",
+        "theater-ref": "W1111"
+    },
+    {
+        "town-name": "Argeliers",
+        "theater-name": "Le Lido - Argeliers",
+        "theater-ref": "W1174"
+    },
+    {
+        "town-name": "Argeliers",
+        "theater-name": "Cinéma municipal",
+        "theater-ref": "W1103"
+    },
+    {
+        "town-name": "Carcassonne",
+        "theater-name": "CGR Carcassonne",
+        "theater-ref": "P5505"
+    },
+    {
+        "town-name": "Carcassonne",
+        "theater-name": "CGR le Colisée Carcassonne",
+        "theater-ref": "P0395"
+    },
+    {
+        "town-name": "Lestrade-et-Thouels",
+        "theater-name": "Cinécran81 Salle des fêtes",
+        "theater-ref": "W1282"
+    },
+    {
+        "town-name": "Lestrade-et-Thouels",
+        "theater-name": "Cinécran81 Salle des fêtes",
+        "theater-ref": "W1244"
+    },
+    {
+        "town-name": "Strasbourg",
+        "theater-name": "UGC Ciné Cité Strasbourg Etoile",
+        "theater-ref": "P0963"
+    },
+    {
+        "town-name": "Strasbourg",
+        "theater-name": "Cinéma Vox",
+        "theater-ref": "P0600"
+    },
+    {
+        "town-name": "Strasbourg",
+        "theater-name": "Star Saint-Exupery",
+        "theater-ref": "P0025"
+    },
+    {
+        "town-name": "Strasbourg",
+        "theater-name": "Star",
+        "theater-ref": "P0027"
+    },
+    {
+        "town-name": "Strasbourg",
+        "theater-name": "Le Cosmos (ex Odyssée)",
+        "theater-ref": "P0026"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Les 3 Palmes",
+        "theater-ref": "P0680"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Cinéma Le Prado Marseille",
+        "theater-ref": "P0045"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Pathé Marseille - Madeleine",
+        "theater-ref": "P0018"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Les Variétés",
+        "theater-ref": "P0749"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Le César",
+        "theater-ref": "P0044"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Chambord",
+        "theater-ref": "P0042"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Bonneveine",
+        "theater-ref": "P0019"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Pathé La Joliette - Dolby Cinema",
+        "theater-ref": "W0213"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Artplexe Canebière",
+        "theater-ref": "W1304"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Alhambra",
+        "theater-ref": "P0028"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "La Baleine",
+        "theater-ref": "B1306"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Château de la Buzine - salle de cinéma",
+        "theater-ref": "W1311"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "La Cinémathèque",
+        "theater-ref": "P0681"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Le Gyptis",
+        "theater-ref": "W1303"
+    },
+    {
+        "town-name": "Marseille",
+        "theater-name": "Mucem",
+        "theater-ref": "W1300"
+    },
+    {
+        "town-name": "Arles",
+        "theater-name": "Le Femina",
+        "theater-ref": "P0498"
+    },
+    {
+        "town-name": "Arles",
+        "theater-name": "Cinémas Le Méjan (Actes Sud)",
+        "theater-ref": "P0441"
+    },
+    {
+        "town-name": "Arles",
+        "theater-name": "Passage du Méjan",
+        "theater-ref": "W1324"
+    },
+    {
+        "town-name": "Arles",
+        "theater-name": "De Film en Aiguille",
+        "theater-ref": "W1320"
+    },
+    {
+        "town-name": "Arles",
+        "theater-name": "Théâtre Antique d'Arles - Rencontre avec les étoil",
+        "theater-ref": "W1318"
+    },
+    {
+        "town-name": "Aix-en-Provence",
+        "theater-name": "Le Cézanne",
+        "theater-ref": "P0112"
+    },
+    {
+        "town-name": "Aix-en-Provence",
+        "theater-name": "Le Renoir",
+        "theater-ref": "P0111"
+    },
+    {
+        "town-name": "Aix-en-Provence",
+        "theater-name": "Le Mazarin",
+        "theater-ref": "P0249"
+    },
+    {
+        "town-name": "Aix-en-Provence",
+        "theater-name": "L'Institut de l'Image - Cité du Livre",
+        "theater-ref": "P9703"
+    },
+    {
+        "town-name": "La Ciotat",
+        "theater-name": "Cinéma Lumière",
+        "theater-ref": "P0500"
+    },
+    {
+        "town-name": "La Ciotat",
+        "theater-name": "CGR Le spot La Ciotat",
+        "theater-ref": "W1361"
+    },
+    {
+        "town-name": "La Ciotat",
+        "theater-name": "Eden Cinéma",
+        "theater-ref": "W1360"
+    },
+    {
+        "town-name": "Salon-de-Provence",
+        "theater-name": "Les Arcades",
+        "theater-ref": "P0367"
+    },
+    {
+        "town-name": "Salon-de-Provence",
+        "theater-name": "Cineplanet Salon-de-Provence",
+        "theater-ref": "W1332"
+    },
+    {
+        "town-name": "Salon-de-Provence",
+        "theater-name": "Le Club",
+        "theater-ref": "W1331"
+    },
+    {
+        "town-name": "Port-Saint-Louis-du-Rhône",
+        "theater-name": "Le Plaza",
+        "theater-ref": "W9745"
+    },
+    {
+        "town-name": "Port-Saint-Louis-du-Rhône",
+        "theater-name": "Cinéma Gérard Philipe",
+        "theater-ref": "W0143"
+    },
+    {
+        "town-name": "Martigues",
+        "theater-name": "Multiplexe Le Palace",
+        "theater-ref": "P0947"
+    },
+    {
+        "town-name": "Martigues",
+        "theater-name": "La Cascade",
+        "theater-ref": "P0615"
+    },
+    {
+        "town-name": "Vitrolles",
+        "theater-name": "CGR Vitrolles",
+        "theater-ref": "W1312"
+    },
+    {
+        "town-name": "Vitrolles",
+        "theater-name": "Les Lumières",
+        "theater-ref": "P8789"
+    },
+    {
+        "town-name": "Caen",
+        "theater-name": "Pathé Les Rives de l'Orne",
+        "theater-ref": "P0103"
+    },
+    {
+        "town-name": "Caen",
+        "theater-name": "Cinéma LUX",
+        "theater-ref": "P0093"
+    },
+    {
+        "town-name": "Caen",
+        "theater-name": "Amphi Pierre Daure",
+        "theater-ref": "W1400"
+    },
+    {
+        "town-name": "Angoulême",
+        "theater-name": "CGR Angoulême",
+        "theater-ref": "P0619"
+    },
+    {
+        "town-name": "Angoulême",
+        "theater-name": "Le cinéma de la Cité",
+        "theater-ref": "P0432"
+    },
+    {
+        "town-name": "La Rochelle",
+        "theater-name": "CGR La Rochelle Les Minimes",
+        "theater-ref": "P0134"
+    },
+    {
+        "town-name": "La Rochelle",
+        "theater-name": "CGR La Rochelle Dragon",
+        "theater-ref": "P0194"
+    },
+    {
+        "town-name": "La Rochelle",
+        "theater-name": "La Coursive Scène Nationale",
+        "theater-ref": "P0110"
+    },
+    {
+        "town-name": "Royan",
+        "theater-name": "Cinéma Lido",
+        "theater-ref": "P0546"
+    },
+    {
+        "town-name": "Royan",
+        "theater-name": "ABC",
+        "theater-ref": "P0545"
+    },
+    {
+        "town-name": "Saintes",
+        "theater-name": "Atlantic Ciné",
+        "theater-ref": "W1717"
+    },
+    {
+        "town-name": "Saintes",
+        "theater-name": "Gallia",
+        "theater-ref": "P0298"
+    },
+    {
+        "town-name": "Bourges",
+        "theater-name": "CGR Bourges",
+        "theater-ref": "P0925"
+    },
+    {
+        "town-name": "Bourges",
+        "theater-name": "Le Cinéma - Maison de la Culture",
+        "theater-ref": "W0039"
+    },
+    {
+        "town-name": "Bourges",
+        "theater-name": "Cinéma Saint-François",
+        "theater-ref": "W1800"
+    },
+    {
+        "town-name": "Herry",
+        "theater-name": "Salle des Fêtes",
+        "theater-ref": "P1814"
+    },
+    {
+        "town-name": "Herry",
+        "theater-name": "Salle des Fêtes",
+        "theater-ref": "W1814"
+    },
+    {
+        "town-name": "Brive-la-Gaillarde",
+        "theater-name": "CGR Brive-la-Gaillarde",
+        "theater-ref": "P1038"
+    },
+    {
+        "town-name": "Brive-la-Gaillarde",
+        "theater-name": "Cinémas Rex",
+        "theater-ref": "P0459"
+    },
+    {
+        "town-name": "Ajaccio",
+        "theater-name": "Ellipse",
+        "theater-ref": "W2000"
+    },
+    {
+        "town-name": "Ajaccio",
+        "theater-name": "Cinéma Laetitia",
+        "theater-ref": "P0927"
+    },
+    {
+        "town-name": "Ajaccio",
+        "theater-name": "Cinéma Théâtre Empire",
+        "theater-ref": "P0928"
+    },
+    {
+        "town-name": "Ajaccio",
+        "theater-name": "Espace Diamant",
+        "theater-ref": "W2001"
+    },
+    {
+        "town-name": "Lecci",
+        "theater-name": "Complexe Galaxy",
+        "theater-ref": "W2013"
+    },
+    {
+        "town-name": "Lecci",
+        "theater-name": "Cinémathèque de Corse, Espace Jean",
+        "theater-ref": "P2010"
+    },
+    {
+        "town-name": "Dijon",
+        "theater-name": "Olympia",
+        "theater-ref": "P2788"
+    },
+    {
+        "town-name": "Dijon",
+        "theater-name": "Le Darcy",
+        "theater-ref": "P0120"
+    },
+    {
+        "town-name": "Dijon",
+        "theater-name": "Eldorado",
+        "theater-ref": "P0121"
+    },
+    {
+        "town-name": "Dijon",
+        "theater-name": "Pathé Dijon",
+        "theater-ref": "W2101"
+    },
+    {
+        "town-name": "Dijon",
+        "theater-name": "Cinémathèque régionale de Bourgogne Jean Douchet",
+        "theater-ref": "W2100"
+    },
+    {
+        "town-name": "Cerizay",
+        "theater-name": "Le 7ème Art",
+        "theater-ref": "P1337"
+    },
+    {
+        "town-name": "Cerizay",
+        "theater-name": "Cinéma du Bocage",
+        "theater-ref": "P7827"
+    },
+    {
+        "town-name": "Niort",
+        "theater-name": "CGR Niort",
+        "theater-ref": "P5869"
+    },
+    {
+        "town-name": "Niort",
+        "theater-name": "Le Moulin du Roc",
+        "theater-ref": "P0275"
+    },
+    {
+        "town-name": "Saint-Astier",
+        "theater-name": "Cinéma La Fabrique",
+        "theater-ref": "P4976"
+    },
+    {
+        "town-name": "Saint-Astier",
+        "theater-name": "Plein air Saint-Astier",
+        "theater-ref": "W2413"
+    },
+    {
+        "town-name": "Saint-Astier",
+        "theater-name": "Plein air St-Astier",
+        "theater-ref": "W2423"
+    },
+    {
+        "town-name": "Besançon",
+        "theater-name": "Megarama Beaux Arts",
+        "theater-ref": "P0126"
+    },
+    {
+        "town-name": "Besançon",
+        "theater-name": "Cinéma  Victor Hugo Lumière",
+        "theater-ref": "P0127"
+    },
+    {
+        "town-name": "Besançon",
+        "theater-name": "Kursaal - Scène Nationale de Besançon",
+        "theater-ref": "W0044"
+    },
+    {
+        "town-name": "Besançon",
+        "theater-name": "Espace - Scène Nationale de Besançon",
+        "theater-ref": "W7001"
+    },
+    {
+        "town-name": "Besançon",
+        "theater-name": "Frac Franche-Comté",
+        "theater-ref": "F2500"
+    },
+    {
+        "town-name": "Morteau",
+        "theater-name": "Le Paris",
+        "theater-ref": "P9104"
+    },
+    {
+        "town-name": "Morteau",
+        "theater-name": "L'Atalante",
+        "theater-ref": "P1055"
+    },
+    {
+        "town-name": "Montélimar",
+        "theater-name": "Les 7 Nef",
+        "theater-ref": "P0262"
+    },
+    {
+        "town-name": "Montélimar",
+        "theater-name": "Le Palace",
+        "theater-ref": "P0892"
+    },
+    {
+        "town-name": "Montélimar",
+        "theater-name": "Les Templiers",
+        "theater-ref": "P1004"
+    },
+    {
+        "town-name": "Valence",
+        "theater-name": "Pathé Valence",
+        "theater-ref": "P0973"
+    },
+    {
+        "town-name": "Valence",
+        "theater-name": "Cinéma Le Navire",
+        "theater-ref": "P0212"
+    },
+    {
+        "town-name": "Valence",
+        "theater-name": "Lux Scène nationale de Valence",
+        "theater-ref": "P2600"
+    },
+    {
+        "town-name": "Romans-sur-Isère",
+        "theater-name": "Ciné Planète",
+        "theater-ref": "P7908"
+    },
+    {
+        "town-name": "Romans-sur-Isère",
+        "theater-name": "Ciné Lumière",
+        "theater-ref": "P2143"
+    },
+    {
+        "town-name": "Les Ulis",
+        "theater-name": "Cinéma Jacques-Prévert",
+        "theater-ref": "B0069"
+    },
+    {
+        "town-name": "Les Ulis",
+        "theater-name": "Megarama Les Ulis",
+        "theater-ref": "G04DW"
+    },
+    {
+        "town-name": "Ris-Orangis",
+        "theater-name": "Les Cinoches",
+        "theater-ref": "B0066"
+    },
+    {
+        "town-name": "Ris-Orangis",
+        "theater-name": "Cinoche 4",
+        "theater-ref": "B0027"
+    },
+    {
+        "town-name": "Étampes",
+        "theater-name": "La Rotonde",
+        "theater-ref": "B0058"
+    },
+    {
+        "town-name": "Étampes",
+        "theater-name": "Cinetampes, le petit theatre",
+        "theater-ref": "B0057"
+    },
+    {
+        "town-name": "Brétigny-sur-Orge",
+        "theater-name": "Ciné 220",
+        "theater-ref": "B0051"
+    },
+    {
+        "town-name": "Brétigny-sur-Orge",
+        "theater-name": "Kinepolis Brétigny-sur-Orge",
+        "theater-ref": "P9122"
+    },
+    {
+        "town-name": "Massy",
+        "theater-name": "Pathé Massy - Dolby Cinema",
+        "theater-ref": "P9130"
+    },
+    {
+        "town-name": "Massy",
+        "theater-name": "Cinémassy",
+        "theater-ref": "B0215"
+    },
+    {
+        "town-name": "Brest",
+        "theater-name": "Multiplexe Liberté",
+        "theater-ref": "P0417"
+    },
+    {
+        "town-name": "Brest",
+        "theater-name": "Les Studios",
+        "theater-ref": "P0153"
+    },
+    {
+        "town-name": "Brest",
+        "theater-name": "CGR Brest Le Celtic",
+        "theater-ref": "P0151"
+    },
+    {
+        "town-name": "Brest",
+        "theater-name": "Pathé Capucins",
+        "theater-ref": "W2920"
+    },
+    {
+        "town-name": "Quimper",
+        "theater-name": "Cinéville Quimper",
+        "theater-ref": "P0299"
+    },
+    {
+        "town-name": "Quimper",
+        "theater-name": "Katorza Quimper",
+        "theater-ref": "P0633"
+    },
+    {
+        "town-name": "Quimper",
+        "theater-name": "Quai Dupleix",
+        "theater-ref": "W2900"
+    },
+    {
+        "town-name": "Douarnenez",
+        "theater-name": "La Balise",
+        "theater-ref": "P1297"
+    },
+    {
+        "town-name": "Douarnenez",
+        "theater-name": "Le Club",
+        "theater-ref": "P0636"
+    },
+    {
+        "town-name": "Morlaix",
+        "theater-name": "Le Rialto",
+        "theater-ref": "P0357"
+    },
+    {
+        "town-name": "Morlaix",
+        "theater-name": "La Salamandre",
+        "theater-ref": "P1883"
+    },
+    {
+        "town-name": "Nîmes",
+        "theater-name": "Kinepolis Nîmes Multiplexe - IMAX",
+        "theater-ref": "P0923"
+    },
+    {
+        "town-name": "Nîmes",
+        "theater-name": "Le Sémaphore",
+        "theater-ref": "P0137"
+    },
+    {
+        "town-name": "Nîmes",
+        "theater-name": "CGR Nîmes",
+        "theater-ref": "P3000"
+    },
+    {
+        "town-name": "Allègre-les-Fumades",
+        "theater-name": "Ciné-Garrigues - Allègre Les Fumades",
+        "theater-ref": "W1213"
+    },
+    {
+        "town-name": "Allègre-les-Fumades",
+        "theater-name": "Cineco - Maison de l'eau",
+        "theater-ref": "W3051"
+    },
+    {
+        "town-name": "Les Mages",
+        "theater-name": "Cinéco Espace G. Bauquier",
+        "theater-ref": "W3096"
+    },
+    {
+        "town-name": "Les Mages",
+        "theater-name": "Cineco - Espace G. Bauquier",
+        "theater-ref": "W3095"
+    },
+    {
+        "town-name": "Bordeaux",
+        "theater-name": "UGC Ciné Cité Bordeaux",
+        "theater-ref": "P0087"
+    },
+    {
+        "town-name": "Bordeaux",
+        "theater-name": "Mégarama Bordeaux - IMAX - 4D-E Motion",
+        "theater-ref": "P0763"
+    },
+    {
+        "town-name": "Bordeaux",
+        "theater-name": "CGR Bordeaux le Français",
+        "theater-ref": "W3300"
+    },
+    {
+        "town-name": "Bordeaux",
+        "theater-name": "Utopia Saint-Simeon",
+        "theater-ref": "P0769"
+    },
+    {
+        "town-name": "Saint-André-de-Cubzac",
+        "theater-name": "Villa Monciné",
+        "theater-ref": "W3324"
+    },
+    {
+        "town-name": "Saint-André-de-Cubzac",
+        "theater-name": "Cinéma le Magic",
+        "theater-ref": "P5591"
+    },
+    {
+        "town-name": "Langon",
+        "theater-name": "Grand Écran Rio centre-ville (Les 2 Rio)",
+        "theater-ref": "P7969"
+    },
+    {
+        "town-name": "Langon",
+        "theater-name": "Multiplexe Grand Écran Langon",
+        "theater-ref": "W3321"
+    },
+    {
+        "town-name": "Mulhouse",
+        "theater-name": "Kinepolis Mulhouse",
+        "theater-ref": "P0810"
+    },
+    {
+        "town-name": "Mulhouse",
+        "theater-name": "Le Palace",
+        "theater-ref": "P0142"
+    },
+    {
+        "town-name": "Mulhouse",
+        "theater-name": "Bel-Air",
+        "theater-ref": "P0663"
+    },
+    {
+        "town-name": "Cernay",
+        "theater-name": "Espace Grun",
+        "theater-ref": "P0885"
+    },
+    {
+        "town-name": "Cernay",
+        "theater-name": "Ciné Croisière",
+        "theater-ref": "W6870"
+    },
+    {
+        "town-name": "Colmar",
+        "theater-name": "CGR Colmar",
+        "theater-ref": "P3829"
+    },
+    {
+        "town-name": "Colmar",
+        "theater-name": "Colisée",
+        "theater-ref": "P0244"
+    },
+    {
+        "town-name": "Bastia",
+        "theater-name": "Le Régent",
+        "theater-ref": "W2020"
+    },
+    {
+        "town-name": "Bastia",
+        "theater-name": "Le Studio",
+        "theater-ref": "P0323"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "Pathé Toulouse Wilson - Dolby Cinema",
+        "theater-ref": "P0057"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "American Cosmograph",
+        "theater-ref": "P0235"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "ABC",
+        "theater-ref": "P0071"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "Le Cratère - Toulouse",
+        "theater-ref": "P0056"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "Cinémathèque de Toulouse",
+        "theater-ref": "P0062"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "UGC Montaudran",
+        "theater-ref": "W3140"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "Utopia Borderouge",
+        "theater-ref": "W3120"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "Centre Culturel Alban Minville - Cinéma Le Métro",
+        "theater-ref": "W3100"
+    },
+    {
+        "town-name": "Toulouse",
+        "theater-name": "La Forêt Électrique",
+        "theater-ref": "W3130"
+    },
+    {
+        "town-name": "Blagnac",
+        "theater-name": "CGR Blagnac (Toulouse)",
+        "theater-ref": "P0692"
+    },
+    {
+        "town-name": "Blagnac",
+        "theater-name": "Cinéma Rex",
+        "theater-ref": "W0334"
+    },
+    {
+        "town-name": "Les Estables",
+        "theater-name": "Les Estables - Centre d'animation",
+        "theater-ref": "C3150"
+    },
+    {
+        "town-name": "Les Estables",
+        "theater-name": "Salle des Fêtes Le Monastier",
+        "theater-ref": "C4315"
+    },
+    {
+        "town-name": "Yssingeaux",
+        "theater-name": "Cinéma Grenette",
+        "theater-ref": "P2692"
+    },
+    {
+        "town-name": "Yssingeaux",
+        "theater-name": "Ciné Lux",
+        "theater-ref": "W0038"
+    },
+    {
+        "town-name": "Annecy",
+        "theater-name": "Pathé Annecy",
+        "theater-ref": "P0996"
+    },
+    {
+        "town-name": "Annecy",
+        "theater-name": "Les Nemours",
+        "theater-ref": "P0526"
+    },
+    {
+        "town-name": "Annecy",
+        "theater-name": "Le Mikado (ex Novel)",
+        "theater-ref": "P9023"
+    },
+    {
+        "town-name": "Annecy",
+        "theater-name": "L'Auditorium Seynod",
+        "theater-ref": "P0697"
+    },
+    {
+        "town-name": "Annecy",
+        "theater-name": "Megarama Annecy - 4D-E-MOTION",
+        "theater-ref": "W7461"
+    },
+    {
+        "town-name": "Le Grand-Bornand",
+        "theater-name": "Les Rhodos",
+        "theater-ref": "W0928"
+    },
+    {
+        "town-name": "Le Grand-Bornand",
+        "theater-name": "Le Charmieux",
+        "theater-ref": "W0927"
+    },
+    {
+        "town-name": "Annemasse",
+        "theater-name": "Ciné Actuel",
+        "theater-ref": "P5507"
+    },
+    {
+        "town-name": "Annemasse",
+        "theater-name": "Studio 6",
+        "theater-ref": "W7411"
+    },
+    {
+        "town-name": "Thonon-les-Bains",
+        "theater-name": "Ciné Léman",
+        "theater-ref": "W7420"
+    },
+    {
+        "town-name": "Thonon-les-Bains",
+        "theater-name": "Le France",
+        "theater-ref": "P0754"
+    },
+    {
+        "town-name": "Limoges",
+        "theater-name": "Grand Ecran - Limoges Centre",
+        "theater-ref": "P0170"
+    },
+    {
+        "town-name": "Limoges",
+        "theater-name": "Grand Ecran - Limoges Ester",
+        "theater-ref": "P8001"
+    },
+    {
+        "town-name": "Limoges",
+        "theater-name": "Grand Ecran - Limoges Lido",
+        "theater-ref": "P0169"
+    },
+    {
+        "town-name": "Gap",
+        "theater-name": "Le Palace",
+        "theater-ref": "P1427"
+    },
+    {
+        "town-name": "Gap",
+        "theater-name": "Le Centre",
+        "theater-ref": "W0045"
+    },
+    {
+        "town-name": "Gap",
+        "theater-name": "Le Club",
+        "theater-ref": "W1160"
+    },
+    {
+        "town-name": "Gap",
+        "theater-name": "Cinémathèque de Montagne",
+        "theater-ref": "W0501"
+    },
+    {
+        "town-name": "Briançon",
+        "theater-name": "Eden Studio",
+        "theater-ref": "W0041"
+    },
+    {
+        "town-name": "Briançon",
+        "theater-name": "Cosmo",
+        "theater-ref": "W0500"
+    },
+    {
+        "town-name": "Guillestre",
+        "theater-name": "Le Rioubel",
+        "theater-ref": "W0048"
+    },
+    {
+        "town-name": "Guillestre",
+        "theater-name": "Cin'Valley Drive in",
+        "theater-ref": "W0560"
+    },
+    {
+        "town-name": "Lourdes",
+        "theater-name": "Le Palais",
+        "theater-ref": "P0896"
+    },
+    {
+        "town-name": "Lourdes",
+        "theater-name": "Cinema Pax",
+        "theater-ref": "W6510"
+    },
+    {
+        "town-name": "Nanterre",
+        "theater-name": "Les Lumières",
+        "theater-ref": "B0014"
+    },
+    {
+        "town-name": "Nanterre",
+        "theater-name": "CGR Nanterre Cœur Université",
+        "theater-ref": "W9202"
+    },
+    {
+        "town-name": "Nanterre",
+        "theater-name": "Théâtre Nanterre-Amandiers",
+        "theater-ref": "W9200"
+    },
+    {
+        "town-name": "Courbevoie",
+        "theater-name": "Abel Gance",
+        "theater-ref": "B0084"
+    },
+    {
+        "town-name": "Courbevoie",
+        "theater-name": "Espace Carpeaux",
+        "theater-ref": "B0219"
+    },
+    {
+        "town-name": "Colombes",
+        "theater-name": "L'Hélios",
+        "theater-ref": "B0082"
+    },
+    {
+        "town-name": "Colombes",
+        "theater-name": "MJC-Théâtre",
+        "theater-ref": "B0083"
+    },
+    {
+        "town-name": "Rueil-Malmaison",
+        "theater-name": "Ariel - Centre ville",
+        "theater-ref": "B0092"
+    },
+    {
+        "town-name": "Rueil-Malmaison",
+        "theater-name": "Ariel - Hauts de Rueil",
+        "theater-ref": "W9250"
+    },
+    {
+        "town-name": "Boulogne-Billancourt",
+        "theater-name": "Pathé Boulogne",
+        "theater-ref": "B0247"
+    },
+    {
+        "town-name": "Boulogne-Billancourt",
+        "theater-name": "Cinéma Landowski",
+        "theater-ref": "B0227"
+    },
+    {
+        "town-name": "Issy-les-Moulineaux",
+        "theater-name": "Ciné d'Issy",
+        "theater-ref": "B0097"
+    },
+    {
+        "town-name": "Issy-les-Moulineaux",
+        "theater-name": "UGC Issy-les-Moulineaux",
+        "theater-ref": "W9213"
+    },
+    {
+        "town-name": "Puteaux",
+        "theater-name": "UGC Ciné Cité La Défense",
+        "theater-ref": "B2619"
+    },
+    {
+        "town-name": "Puteaux",
+        "theater-name": "Le Central",
+        "theater-ref": "W9280"
+    },
+    {
+        "town-name": "Villeneuve-la-Garenne",
+        "theater-name": "Mégarama Villeneuve-la-Garenne",
+        "theater-ref": "B0239"
+    },
+    {
+        "town-name": "Villeneuve-la-Garenne",
+        "theater-name": "Cinéma André-Malraux",
+        "theater-ref": "B0100"
+    },
+    {
+        "town-name": "Montpellier",
+        "theater-name": "Pathé Montpellier Odysseum - IMAX",
+        "theater-ref": "P0702"
+    },
+    {
+        "town-name": "Montpellier",
+        "theater-name": "Pathé Comédie",
+        "theater-ref": "P0076"
+    },
+    {
+        "town-name": "Montpellier",
+        "theater-name": "Diagonal-Capitole",
+        "theater-ref": "P0187"
+    },
+    {
+        "town-name": "Montpellier",
+        "theater-name": "Utopia",
+        "theater-ref": "P7647"
+    },
+    {
+        "town-name": "Montpellier",
+        "theater-name": "Cinéma Nestor Burma",
+        "theater-ref": "W3408"
+    },
+    {
+        "town-name": "Montpellier",
+        "theater-name": "Cinéma Louis Feuillade",
+        "theater-ref": "P3408"
+    },
+    {
+        "town-name": "Bédarieux",
+        "theater-name": "Ciné 3",
+        "theater-ref": "W0399"
+    },
+    {
+        "town-name": "Bédarieux",
+        "theater-name": "Cinéma Jean-Claude Carrière",
+        "theater-ref": "W3460"
+    },
+    {
+        "town-name": "Sète",
+        "theater-name": "Sète - Comoedia",
+        "theater-ref": "W0067"
+    },
+    {
+        "town-name": "Sète",
+        "theater-name": "Sète - Nouveau Palace",
+        "theater-ref": "W3420"
+    },
+    {
+        "town-name": "Rennes",
+        "theater-name": "Pathé Rennes - Dolby Cinema",
+        "theater-ref": "P0091"
+    },
+    {
+        "town-name": "Rennes",
+        "theater-name": "Cinéma Arvor",
+        "theater-ref": "P0084"
+    },
+    {
+        "town-name": "Rennes",
+        "theater-name": "Cine-TNB",
+        "theater-ref": "P0102"
+    },
+    {
+        "town-name": "Bruz",
+        "theater-name": "Cinéville Bruz",
+        "theater-ref": "W0295"
+    },
+    {
+        "town-name": "Bruz",
+        "theater-name": "Le Grand Logis",
+        "theater-ref": "W3517"
+    },
+    {
+        "town-name": "Saint-Malo",
+        "theater-name": "Ciné Vauban",
+        "theater-ref": "P0280"
+    },
+    {
+        "town-name": "Saint-Malo",
+        "theater-name": "Le Vauban - La Grande Passerelle",
+        "theater-ref": "W3540"
+    },
+    {
+        "town-name": "Châteauroux",
+        "theater-name": "CGR Châteauroux",
+        "theater-ref": "P7963"
+    },
+    {
+        "town-name": "Châteauroux",
+        "theater-name": "Apollo",
+        "theater-ref": "P0730"
+    },
+    {
+        "town-name": "Tours",
+        "theater-name": "CGR Tours 2 Lions",
+        "theater-ref": "P0704"
+    },
+    {
+        "town-name": "Tours",
+        "theater-name": "CGR Tours Centre",
+        "theater-ref": "P5756"
+    },
+    {
+        "town-name": "Tours",
+        "theater-name": "Studio",
+        "theater-ref": "P0149"
+    },
+    {
+        "town-name": "Tours",
+        "theater-name": "Pathé Tours - IMAX",
+        "theater-ref": "P3701"
+    },
+    {
+        "town-name": "Bourgueil",
+        "theater-name": "Cinéma de l'Amicale- Le Familia",
+        "theater-ref": "W3714"
+    },
+    {
+        "town-name": "Bourgueil",
+        "theater-name": "Cinéma de l'abbaye",
+        "theater-ref": "V3714"
+    },
+    {
+        "town-name": "Grenoble",
+        "theater-name": "Pathé Grenoble - IMAX",
+        "theater-ref": "P1032"
+    },
+    {
+        "town-name": "Grenoble",
+        "theater-name": "La Nef",
+        "theater-ref": "P0068"
+    },
+    {
+        "town-name": "Grenoble",
+        "theater-name": "Le Club",
+        "theater-ref": "P0069"
+    },
+    {
+        "town-name": "Grenoble",
+        "theater-name": "Le Méliès - Grenoble",
+        "theater-ref": "P0070"
+    },
+    {
+        "town-name": "Grenoble",
+        "theater-name": "Cinéma Juliet Berto",
+        "theater-ref": "P0758"
+    },
+    {
+        "town-name": "Les Adrets",
+        "theater-name": "Ciné7",
+        "theater-ref": "W3819"
+    },
+    {
+        "town-name": "Les Adrets",
+        "theater-name": "Salle des Fêtes",
+        "theater-ref": "P1092"
+    },
+    {
+        "town-name": "L'Alpe-d'Huez",
+        "theater-name": "Cinéma Le Palais",
+        "theater-ref": "W0455"
+    },
+    {
+        "town-name": "L'Alpe-d'Huez",
+        "theater-name": "Cinéma Le Signal",
+        "theater-ref": "W3875"
+    },
+    {
+        "town-name": "Voiron",
+        "theater-name": "PASSrL Le Mail",
+        "theater-ref": "P3850"
+    },
+    {
+        "town-name": "Voiron",
+        "theater-name": "PASSrL Les Ecrans",
+        "theater-ref": "P0540"
+    },
+    {
+        "town-name": "Lons-le-Saunier",
+        "theater-name": "Megarama Lons-Le-Saunier",
+        "theater-ref": "W3901"
+    },
+    {
+        "town-name": "Lons-le-Saunier",
+        "theater-name": "Le Palace",
+        "theater-ref": "P0291"
+    },
+    {
+        "town-name": "Lons-le-Saunier",
+        "theater-name": "Centre Culturel Communautaire des Cordeliers",
+        "theater-ref": "W3900"
+    },
+    {
+        "town-name": "Dole",
+        "theater-name": "Les Tanneurs",
+        "theater-ref": "P1963"
+    },
+    {
+        "town-name": "Dole",
+        "theater-name": "Le Studio",
+        "theater-ref": "P1420"
+    },
+    {
+        "town-name": "Mont-de-Marsan",
+        "theater-name": "Les Toiles du Moun",
+        "theater-ref": "W4028"
+    },
+    {
+        "town-name": "Mont-de-Marsan",
+        "theater-name": "Cinéma Grand Club",
+        "theater-ref": "W4000"
+    },
+    {
+        "town-name": "Blois",
+        "theater-name": "Cap Ciné Blois",
+        "theater-ref": "P0976"
+    },
+    {
+        "town-name": "Blois",
+        "theater-name": "Cap Ciné - Les Lobis",
+        "theater-ref": "P0287"
+    },
+    {
+        "town-name": "Saint-Étienne",
+        "theater-name": "Megarama Jean Jaurès (L'Alhambra)",
+        "theater-ref": "P0231"
+    },
+    {
+        "town-name": "Saint-Étienne",
+        "theater-name": "Megarama Chavanelle (Camion Rouge)",
+        "theater-ref": "P0191"
+    },
+    {
+        "town-name": "Saint-Étienne",
+        "theater-name": "Le Meliès St-Étienne (Jean Jaurès)",
+        "theater-ref": "P0161"
+    },
+    {
+        "town-name": "Saint-Étienne",
+        "theater-name": "Le Méliès St-Étienne (St François)",
+        "theater-ref": "P0034"
+    },
+    {
+        "town-name": "Roanne",
+        "theater-name": "Le Grand Palais",
+        "theater-ref": "P4230"
+    },
+    {
+        "town-name": "Roanne",
+        "theater-name": "Espace Renoir",
+        "theater-ref": "P0392"
+    },
+    {
+        "town-name": "Nantes",
+        "theater-name": "Pathé Nantes Centre ville",
+        "theater-ref": "P0196"
+    },
+    {
+        "town-name": "Nantes",
+        "theater-name": "Katorza",
+        "theater-ref": "P0052"
+    },
+    {
+        "town-name": "Nantes",
+        "theater-name": "Le Concorde",
+        "theater-ref": "P0088"
+    },
+    {
+        "town-name": "Nantes",
+        "theater-name": "Le Cinematographe",
+        "theater-ref": "P1199"
+    },
+    {
+        "town-name": "Nantes",
+        "theater-name": "Bonne-Garde",
+        "theater-ref": "P0095"
+    },
+    {
+        "town-name": "Saint-Nazaire",
+        "theater-name": "Cinéville Saint-Nazaire",
+        "theater-ref": "P0968"
+    },
+    {
+        "town-name": "Saint-Nazaire",
+        "theater-name": "Salle Jacques Tati",
+        "theater-ref": "P5893"
+    },
+    {
+        "town-name": "Saint-Nazaire",
+        "theater-name": "Cinémaginaire Saint-Nazaire",
+        "theater-ref": "W4461"
+    },
+    {
+        "town-name": "Saint-Herblain",
+        "theater-name": "Pathé Atlantis Nantes - Saint-Herblain",
+        "theater-ref": "P0667"
+    },
+    {
+        "town-name": "Saint-Herblain",
+        "theater-name": "UGC Ciné Cité Atlantis - Nantes",
+        "theater-ref": "P0666"
+    },
+    {
+        "town-name": "Saint-Herblain",
+        "theater-name": "Lutétia",
+        "theater-ref": "P1220"
+    },
+    {
+        "town-name": "Pornic",
+        "theater-name": "Ciné Toiles de Retz",
+        "theater-ref": "P0716"
+    },
+    {
+        "town-name": "Pornic",
+        "theater-name": "CINEMA SAINT JOSEPH",
+        "theater-ref": "P2368"
+    },
+    {
+        "town-name": "Orléans",
+        "theater-name": "Pathé Orléans",
+        "theater-ref": "P3582"
+    },
+    {
+        "town-name": "Orléans",
+        "theater-name": "Les Carmes",
+        "theater-ref": "P0926"
+    },
+    {
+        "town-name": "Cahors",
+        "theater-name": "ABC",
+        "theater-ref": "P0649"
+    },
+    {
+        "town-name": "Cahors",
+        "theater-name": "Le Quercy",
+        "theater-ref": "P1132"
+    },
+    {
+        "town-name": "Cahors",
+        "theater-name": "Le Grand Palais",
+        "theater-ref": "W4600"
+    },
+    {
+        "town-name": "Agen",
+        "theater-name": "CGR Agen",
+        "theater-ref": "P0867"
+    },
+    {
+        "town-name": "Agen",
+        "theater-name": "Les montreurs d'images",
+        "theater-ref": "P1120"
+    },
+    {
+        "town-name": "Chemillé",
+        "theater-name": "Le Club",
+        "theater-ref": "W0094"
+    },
+    {
+        "town-name": "Chemillé",
+        "theater-name": "Cinéma Balad Images Saint Georges des Gardes",
+        "theater-ref": "W9120"
+    },
+    {
+        "town-name": "Jallais",
+        "theater-name": "Centre Culturel",
+        "theater-ref": "W4951"
+    },
+    {
+        "town-name": "Jallais",
+        "theater-name": "Cinéma Balad Images Jallais",
+        "theater-ref": "W4950"
+    },
+    {
+        "town-name": "Les Ponts-de-Cé",
+        "theater-name": "Cinéville Les Ponts-de-Cé",
+        "theater-ref": "P4913"
+    },
+    {
+        "town-name": "Les Ponts-de-Cé",
+        "theater-name": "Théâtre des Dames",
+        "theater-ref": "W4913"
+    },
+    {
+        "town-name": "Angers",
+        "theater-name": "Pathé Angers",
+        "theater-ref": "P0978"
+    },
+    {
+        "town-name": "Angers",
+        "theater-name": "Les 400 Coups",
+        "theater-ref": "P0186"
+    },
+    {
+        "town-name": "Cherbourg-Octeville",
+        "theater-name": "CGR Cherbourg",
+        "theater-ref": "P5823"
+    },
+    {
+        "town-name": "Cherbourg-Octeville",
+        "theater-name": "CGR Cherbourg Odéon",
+        "theater-ref": "P0221"
+    },
+    {
+        "town-name": "Châlons-en-Champagne",
+        "theater-name": "CGR Châlons-en-Champagne",
+        "theater-ref": "P8517"
+    },
+    {
+        "town-name": "Châlons-en-Champagne",
+        "theater-name": "La Comète",
+        "theater-ref": "W0284"
+    },
+    {
+        "town-name": "FORT DE FRANCE",
+        "theater-name": "CADICE Ciné Woulé Company",
+        "theater-ref": "M9720"
+    },
+    {
+        "town-name": "FORT DE FRANCE",
+        "theater-name": "Tropiques Atrium",
+        "theater-ref": "W9720"
+    },
+    {
+        "town-name": "Laval",
+        "theater-name": "Cinéville Laval",
+        "theater-ref": "P1140"
+    },
+    {
+        "town-name": "Laval",
+        "theater-name": "Cinéma l'Avant-scène",
+        "theater-ref": "W5300"
+    },
+    {
+        "town-name": "Nancy",
+        "theater-name": "Kinepolis Nancy",
+        "theater-ref": "P1665"
+    },
+    {
+        "town-name": "Nancy",
+        "theater-name": "UGC Nancy Saint Jean",
+        "theater-ref": "P0090"
+    },
+    {
+        "town-name": "Nancy",
+        "theater-name": "Cameo Saint Sébastien",
+        "theater-ref": "P0108"
+    },
+    {
+        "town-name": "Nancy",
+        "theater-name": "Cameo Commanderie",
+        "theater-ref": "P0073"
+    },
+    {
+        "town-name": "Laxou",
+        "theater-name": "Salle Louis Pergaud - Laxou",
+        "theater-ref": "W5452"
+    },
+    {
+        "town-name": "Laxou",
+        "theater-name": "Salle Spectacle CILM - Laxou",
+        "theater-ref": "W5453"
+    },
+    {
+        "town-name": "Piennes",
+        "theater-name": "Salle du Nord-Est",
+        "theater-ref": "W5449"
+    },
+    {
+        "town-name": "Piennes",
+        "theater-name": "Salle Jean Vilar - Piennes",
+        "theater-ref": "W5450"
+    },
+    {
+        "town-name": "Sarzeau",
+        "theater-name": "Le Richemont",
+        "theater-ref": "P7197"
+    },
+    {
+        "town-name": "Sarzeau",
+        "theater-name": "Cinéma L'Hermine",
+        "theater-ref": "W5637"
+    },
+    {
+        "town-name": "Guer",
+        "theater-name": "Quai 56",
+        "theater-ref": "W0644"
+    },
+    {
+        "town-name": "Guer",
+        "theater-name": "Bonaparte",
+        "theater-ref": "P5638"
+    },
+    {
+        "town-name": "Vannes",
+        "theater-name": "Cinéville Parc Lann",
+        "theater-ref": "P2055"
+    },
+    {
+        "town-name": "Vannes",
+        "theater-name": "Garenne",
+        "theater-ref": "P0281"
+    },
+    {
+        "town-name": "Metz",
+        "theater-name": "Klub",
+        "theater-ref": "P0072"
+    },
+    {
+        "town-name": "Metz",
+        "theater-name": "Kinepolis Amphithéâtre",
+        "theater-ref": "W5701"
+    },
+    {
+        "town-name": "Metz",
+        "theater-name": "Centre Pompidou-Metz",
+        "theater-ref": "W5700"
+    },
+    {
+        "town-name": "Bouzonville",
+        "theater-name": "Cinéma Bouzonville",
+        "theater-ref": "W5732"
+    },
+    {
+        "town-name": "Bouzonville",
+        "theater-name": "Salle des fêtes - Bouzonville",
+        "theater-ref": "W5733"
+    },
+    {
+        "town-name": "Thionville",
+        "theater-name": "Kinepolis Thionville",
+        "theater-ref": "P0770"
+    },
+    {
+        "town-name": "Thionville",
+        "theater-name": "La Scala",
+        "theater-ref": "P2516"
+    },
+    {
+        "town-name": "Amnéville",
+        "theater-name": "Kinepolis Amnéville",
+        "theater-ref": "P0904"
+    },
+    {
+        "town-name": "Amnéville",
+        "theater-name": "Loisirsmax",
+        "theater-ref": "W5736"
+    },
+    {
+        "town-name": "Lille",
+        "theater-name": "UGC Ciné Cité Lille",
+        "theater-ref": "P0086"
+    },
+    {
+        "town-name": "Lille",
+        "theater-name": "Majestic Lille",
+        "theater-ref": "P0047"
+    },
+    {
+        "town-name": "Lille",
+        "theater-name": "Le Métropole",
+        "theater-ref": "P0022"
+    },
+    {
+        "town-name": "Lille",
+        "theater-name": "cinéma l'Univers",
+        "theater-ref": "P9369"
+    },
+    {
+        "town-name": "Lille",
+        "theater-name": "L'Hybride",
+        "theater-ref": "W5902"
+    },
+    {
+        "town-name": "Villeneuve-d'Ascq",
+        "theater-name": "UGC Ciné Cité Villeneuve d'Ascq",
+        "theater-ref": "W5965"
+    },
+    {
+        "town-name": "Villeneuve-d'Ascq",
+        "theater-name": "Le Méliès",
+        "theater-ref": "P0200"
+    },
+    {
+        "town-name": "Villeneuve-d'Ascq",
+        "theater-name": "Kino Ciné",
+        "theater-ref": "P1143"
+    },
+    {
+        "town-name": "Templeuve",
+        "theater-name": "L'Olympia ciné",
+        "theater-ref": "P0920"
+    },
+    {
+        "town-name": "Templeuve",
+        "theater-name": "Modern Ciné",
+        "theater-ref": "W2459"
+    },
+    {
+        "town-name": "Marcq-en-Baroeul",
+        "theater-name": "Colisée Lumière",
+        "theater-ref": "P0953"
+    },
+    {
+        "town-name": "Marcq-en-Baroeul",
+        "theater-name": "Le Pont Des Arts",
+        "theater-ref": "W5970"
+    },
+    {
+        "town-name": "Tourcoing",
+        "theater-name": "Les Écrans",
+        "theater-ref": "W5920"
+    },
+    {
+        "town-name": "Tourcoing",
+        "theater-name": "Le Fresnoy",
+        "theater-ref": "P6549"
+    },
+    {
+        "town-name": "Denain",
+        "theater-name": "Megarama Denain",
+        "theater-ref": "W2200"
+    },
+    {
+        "town-name": "Denain",
+        "theater-name": "Cinéligue NPDC Théâtre municipal",
+        "theater-ref": "W5922"
+    },
+    {
+        "town-name": "Douai",
+        "theater-name": "Majestic Douai",
+        "theater-ref": "P1031"
+    },
+    {
+        "town-name": "Douai",
+        "theater-name": "Cinéma TANDEM - Hippodrome de Douai",
+        "theater-ref": "W0120"
+    },
+    {
+        "town-name": "Dunkerque",
+        "theater-name": "Ociné Dunkerque",
+        "theater-ref": "P0795"
+    },
+    {
+        "town-name": "Dunkerque",
+        "theater-name": "Studio 43",
+        "theater-ref": "P0585"
+    },
+    {
+        "town-name": "Beauvais",
+        "theater-name": "CGR Beauvais",
+        "theater-ref": "P1133"
+    },
+    {
+        "town-name": "Beauvais",
+        "theater-name": "Cinéma Agnès Varda",
+        "theater-ref": "P0506"
+    },
+    {
+        "town-name": "Bruay-la-Buissière",
+        "theater-name": "CGR Bruay-la-Buissière",
+        "theater-ref": "P0993"
+    },
+    {
+        "town-name": "Bruay-la-Buissière",
+        "theater-name": "Les étoiles",
+        "theater-ref": "P0954"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "Ciné Jaude",
+        "theater-ref": "P0145"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "Ciné Capitole",
+        "theater-ref": "P0144"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "CGR Clermont-Ferrand Les Ambiances",
+        "theater-ref": "P0146"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "CGR Clermont-Ferrand Le Paris",
+        "theater-ref": "W6300"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "CGR Clermont-Ferrand Val Arena",
+        "theater-ref": "P6310"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "Cinéma le Rio",
+        "theater-ref": "P0908"
+    },
+    {
+        "town-name": "Clermont-Ferrand",
+        "theater-name": "Cinéfac",
+        "theater-ref": "P0436"
+    },
+    {
+        "town-name": "Besse-et-Saint-Anastaise",
+        "theater-name": "Ciné-Besse",
+        "theater-ref": "W6361"
+    },
+    {
+        "town-name": "Besse-et-Saint-Anastaise",
+        "theater-name": "Ciné-Super",
+        "theater-ref": "W6362"
+    },
+    {
+        "town-name": "Bayonne",
+        "theater-name": "CGR Bayonne",
+        "theater-ref": "P0252"
+    },
+    {
+        "town-name": "Bayonne",
+        "theater-name": "L'Atalante",
+        "theater-ref": "P8748"
+    },
+    {
+        "town-name": "Bayonne",
+        "theater-name": "L'Atalante",
+        "theater-ref": "P0245"
+    },
+    {
+        "town-name": "Pau",
+        "theater-name": "CGR Pau Université",
+        "theater-ref": "P0629"
+    },
+    {
+        "town-name": "Pau",
+        "theater-name": "CGR Pau Saint-Louis",
+        "theater-ref": "P0198"
+    },
+    {
+        "town-name": "Pau",
+        "theater-name": "Le Méliès",
+        "theater-ref": "P0180"
+    },
+    {
+        "town-name": "Perpignan",
+        "theater-name": "Méga Castillet",
+        "theater-ref": "P0218"
+    },
+    {
+        "town-name": "Perpignan",
+        "theater-name": "Castillet",
+        "theater-ref": "P0176"
+    },
+    {
+        "town-name": "Perpignan",
+        "theater-name": "Institut Jean Vigo - Salle Marcel Oms",
+        "theater-ref": "P1115"
+    },
+    {
+        "town-name": "Thuir",
+        "theater-name": "Cinémaginaire Thuir",
+        "theater-ref": "W6633"
+    },
+    {
+        "town-name": "Thuir",
+        "theater-name": "Théâtre des Asprès",
+        "theater-ref": "W6628"
+    },
+    {
+        "town-name": "Elne",
+        "theater-name": "Cinéma Vautier",
+        "theater-ref": "W6622"
+    },
+    {
+        "town-name": "Elne",
+        "theater-name": "Cinémaginaire Elne",
+        "theater-ref": "W6621"
+    },
+    {
+        "town-name": "Saint-Denis",
+        "theater-name": "Ritz",
+        "theater-ref": "P0823"
+    },
+    {
+        "town-name": "Saint-Denis",
+        "theater-name": "Ciné Lacaze",
+        "theater-ref": "P0826"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Pathé Lyon - Bellecour",
+        "theater-ref": "P0012"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "UGC Ciné Cité Internationale",
+        "theater-ref": "P0671"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Pathé Lyon - Vaise - Dolby Cinema",
+        "theater-ref": "P6909"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "UGC Ciné Cité Confluence",
+        "theater-ref": "W6902"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "UGC Astoria",
+        "theater-ref": "P0005"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Cinéma Comoedia",
+        "theater-ref": "P3757"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Cinéma Lumière Terreaux",
+        "theater-ref": "P0017"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Cinéma Lumière Bellecour",
+        "theater-ref": "P0015"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "UGC Ciné Cité Lyon Part-Dieu",
+        "theater-ref": "P0036"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Le Cinéma Opéra",
+        "theater-ref": "P0006"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Ciné Saint-Denis",
+        "theater-ref": "P0261"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Cinéma Lumière La Fourmi",
+        "theater-ref": "W6903"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Le Cinéma",
+        "theater-ref": "P0009"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Institut Lumière",
+        "theater-ref": "P0050"
+    },
+    {
+        "town-name": "Lyon",
+        "theater-name": "Cinéma Bellecombe",
+        "theater-ref": "P0031"
+    },
+    {
+        "town-name": "Villefranche-sur-Saône",
+        "theater-name": "Les 400 Coups",
+        "theater-ref": "P0391"
+    },
+    {
+        "town-name": "Villefranche-sur-Saône",
+        "theater-name": "CGR Villefranche-sur-Saône",
+        "theater-ref": "P6940"
+    },
+    {
+        "town-name": "Caluire-et-Cuire",
+        "theater-name": "Ciné-Caluire",
+        "theater-ref": "P0074"
+    },
+    {
+        "town-name": "Caluire-et-Cuire",
+        "theater-name": "Le Méliès",
+        "theater-ref": "P0222"
+    },
+    {
+        "town-name": "Vaulx-en-Velin",
+        "theater-name": "Pathé Lyon Carré de Soie - IMAX",
+        "theater-ref": "P8507"
+    },
+    {
+        "town-name": "Vaulx-en-Velin",
+        "theater-name": "Les Amphis",
+        "theater-ref": "P0013"
+    },
+    {
+        "town-name": "Chalon-sur-Saône",
+        "theater-name": "Les 5 Nef",
+        "theater-ref": "P0626"
+    },
+    {
+        "town-name": "Chalon-sur-Saône",
+        "theater-name": "Axel",
+        "theater-ref": "P0446"
+    },
+    {
+        "town-name": "Chalon-sur-Saône",
+        "theater-name": "Mégarama Chalon-sur-Saône",
+        "theater-ref": "P7110"
+    },
+    {
+        "town-name": "Chalon-sur-Saône",
+        "theater-name": "Espace des Arts",
+        "theater-ref": "P9401"
+    },
+    {
+        "town-name": "Le Mans",
+        "theater-name": "Pathé Le Mans",
+        "theater-ref": "W7201"
+    },
+    {
+        "town-name": "Le Mans",
+        "theater-name": "Les Cinéastes",
+        "theater-ref": "P8501"
+    },
+    {
+        "town-name": "Le Mans",
+        "theater-name": "CGR Le Mans Le Colisée",
+        "theater-ref": "P0160"
+    },
+    {
+        "town-name": "Le Mans",
+        "theater-name": "Le Royal",
+        "theater-ref": "W0014"
+    },
+    {
+        "town-name": "Sablé-sur-Sarthe",
+        "theater-name": "PALACE CARNOT",
+        "theater-ref": "P7230"
+    },
+    {
+        "town-name": "Sablé-sur-Sarthe",
+        "theater-name": "Cinéma Confluences Sablé",
+        "theater-ref": "W7230"
+    },
+    {
+        "town-name": "Sablé-sur-Sarthe",
+        "theater-name": "Centre culturel Joel Le Theule",
+        "theater-ref": "W7232"
+    },
+    {
+        "town-name": "Chambéry",
+        "theater-name": "Pathé Chambéry",
+        "theater-ref": "W7300"
+    },
+    {
+        "town-name": "Chambéry",
+        "theater-name": "Astrée",
+        "theater-ref": "P0203"
+    },
+    {
+        "town-name": "Chambéry",
+        "theater-name": "Le Forum",
+        "theater-ref": "P0204"
+    },
+    {
+        "town-name": "Chambéry",
+        "theater-name": "CinéMalraux (Curial)",
+        "theater-ref": "P0205"
+    },
+    {
+        "town-name": "Chindrieux",
+        "theater-name": "cinebus Chindrieux",
+        "theater-ref": "W7341"
+    },
+    {
+        "town-name": "Chindrieux",
+        "theater-name": "Salle Noël Girard-Abry",
+        "theater-ref": "W7340"
+    },
+    {
+        "town-name": "LES MENUIRES",
+        "theater-name": "Les Bruyères",
+        "theater-ref": "W1242"
+    },
+    {
+        "town-name": "LES MENUIRES",
+        "theater-name": "Les Flocons",
+        "theater-ref": "W7344"
+    },
+    {
+        "town-name": "Albertville",
+        "theater-name": "Le Dôme Cinéma",
+        "theater-ref": "P5450"
+    },
+    {
+        "town-name": "Albertville",
+        "theater-name": "Le Dôme Gambetta",
+        "theater-ref": "P0316"
+    },
+    {
+        "town-name": "Aix-les-Bains",
+        "theater-name": "Multiplexe Les Toiles du Lac",
+        "theater-ref": "P3752"
+    },
+    {
+        "town-name": "Aix-les-Bains",
+        "theater-name": "Le Victoria",
+        "theater-ref": "P7885"
+    },
+    {
+        "town-name": "Fontainebleau",
+        "theater-name": "Ermitage",
+        "theater-ref": "B0187"
+    },
+    {
+        "town-name": "Fontainebleau",
+        "theater-name": "CinéParadis",
+        "theater-ref": "W7730"
+    },
+    {
+        "town-name": "Chessy",
+        "theater-name": "Gaumont Disney Village - IMAX",
+        "theater-ref": "B0176"
+    },
+    {
+        "town-name": "Chessy",
+        "theater-name": "Studio 31",
+        "theater-ref": "B7770"
+    },
+    {
+        "town-name": "Le Havre",
+        "theater-name": "Pathé Docks Vauban",
+        "theater-ref": "W7660"
+    },
+    {
+        "town-name": "Le Havre",
+        "theater-name": "Sirius",
+        "theater-ref": "P0192"
+    },
+    {
+        "town-name": "Le Havre",
+        "theater-name": "Le Studio",
+        "theater-ref": "P5962"
+    },
+    {
+        "town-name": "Rouen",
+        "theater-name": "Pathé Docks 76 - Dolby Cinema",
+        "theater-ref": "W7600"
+    },
+    {
+        "town-name": "Rouen",
+        "theater-name": "Kinepolis Rouen",
+        "theater-ref": "P0224"
+    },
+    {
+        "town-name": "Rouen",
+        "theater-name": "Omnia République",
+        "theater-ref": "P0101"
+    },
+    {
+        "town-name": "Dieppe",
+        "theater-name": "Megarama Dieppe",
+        "theater-ref": "P0610"
+    },
+    {
+        "town-name": "Dieppe",
+        "theater-name": "Dieppe Scène Nationale",
+        "theater-ref": "P0596"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "L'Écran nomade (ex Magic Cinéma)",
+        "theater-ref": "B0195"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "MC93 - Bobigny",
+        "theater-ref": "W9302"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "Bourse du Travail de la Seine-Saint-Denis",
+        "theater-ref": "W9300"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "Conservatoire Jean Wiéner",
+        "theater-ref": "W9301"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "Bibliothèque Elsa Triolet",
+        "theater-ref": "W9303"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "Salle Max Jacob",
+        "theater-ref": "W9304"
+    },
+    {
+        "town-name": "Bobigny",
+        "theater-name": "Université Sorbonne Paris Nord - Campus Bobigny",
+        "theater-ref": "W9305"
+    },
+    {
+        "town-name": "Pantin",
+        "theater-name": "Ciné 104",
+        "theater-ref": "B0047"
+    },
+    {
+        "town-name": "Pantin",
+        "theater-name": "Maison de quartier des Courtillières",
+        "theater-ref": "W9350"
+    },
+    {
+        "town-name": "Pantin",
+        "theater-name": "Cinéma du centre culturel Nelson Mandela",
+        "theater-ref": "W9351"
+    },
+    {
+        "town-name": "Saint-Denis",
+        "theater-name": "Pathé Saint-Denis Stade de France",
+        "theater-ref": "B0242"
+    },
+    {
+        "town-name": "Saint-Denis",
+        "theater-name": "L'Ecran",
+        "theater-ref": "B0122"
+    },
+    {
+        "town-name": "Saint-Denis",
+        "theater-name": "Théâtre Gérard Philipe",
+        "theater-ref": "W3207"
+    },
+    {
+        "town-name": "Montreuil",
+        "theater-name": "Cinéma Le Méliès",
+        "theater-ref": "B0116"
+    },
+    {
+        "town-name": "Montreuil",
+        "theater-name": "Maison Populaire",
+        "theater-ref": "B9577"
+    },
+    {
+        "town-name": "Noisy-le-Grand",
+        "theater-name": "UGC Ciné Cité Noisy-le-Grand",
+        "theater-ref": "B0114"
+    },
+    {
+        "town-name": "Noisy-le-Grand",
+        "theater-name": "Le Bijou",
+        "theater-ref": "P9316"
+    },
+    {
+        "town-name": "Rosny-sous-Bois",
+        "theater-name": "UGC Ciné Cité Rosny",
+        "theater-ref": "B0199"
+    },
+    {
+        "town-name": "Rosny-sous-Bois",
+        "theater-name": "Théâtre et Cinéma Georges Simenon",
+        "theater-ref": "W9311"
+    },
+    {
+        "town-name": "Aulnay-sous-Bois",
+        "theater-name": "UGC Ciné Cité O'Parinor",
+        "theater-ref": "W9360"
+    },
+    {
+        "town-name": "Aulnay-sous-Bois",
+        "theater-name": "Théâtre et Cinéma Jacques-Prevert",
+        "theater-ref": "B0103"
+    },
+    {
+        "town-name": "Abbeville",
+        "theater-name": "CGR Abbeville - La Sucrerie",
+        "theater-ref": "W8010"
+    },
+    {
+        "town-name": "Abbeville",
+        "theater-name": "Rex - Centre culturel",
+        "theater-ref": "P8010"
+    },
+    {
+        "town-name": "Amiens",
+        "theater-name": "Pathé Amiens",
+        "theater-ref": "P1545"
+    },
+    {
+        "town-name": "Amiens",
+        "theater-name": "Ciné Saint-Leu",
+        "theater-ref": "P0950"
+    },
+    {
+        "town-name": "Amiens",
+        "theater-name": "Cinéma Orson Welles - MCA",
+        "theater-ref": "P0046"
+    },
+    {
+        "town-name": "Albi",
+        "theater-name": "CGR Albi - Les Cordeliers",
+        "theater-ref": "W8101"
+    },
+    {
+        "town-name": "Albi",
+        "theater-name": "Cinéma de la Scène Nationale d'Albi",
+        "theater-ref": "P0223"
+    },
+    {
+        "town-name": "Albi",
+        "theater-name": "CGR Albi Lapérouse",
+        "theater-ref": "P8100"
+    },
+    {
+        "town-name": "Saint-Paul-Cap-de-Joux",
+        "theater-name": "Cinécran81 Ciné Saint-Paul-Cap-de-Joux",
+        "theater-ref": "W8198"
+    },
+    {
+        "town-name": "Saint-Paul-Cap-de-Joux",
+        "theater-name": "Cinécran81 Salle des fêtes",
+        "theater-ref": "W8124"
+    },
+    {
+        "town-name": "Labruguière",
+        "theater-name": "Ciné en plein Air - Cinécran 81",
+        "theater-ref": "W8130"
+    },
+    {
+        "town-name": "Labruguière",
+        "theater-name": "Cinécran81 M. J. C. des Gaux",
+        "theater-ref": "W8154"
+    },
+    {
+        "town-name": "Algans",
+        "theater-name": "Cinécran81 Ciné en plein Air",
+        "theater-ref": "W8147"
+    },
+    {
+        "town-name": "Algans",
+        "theater-name": "Foyer rural",
+        "theater-ref": "W8148"
+    },
+    {
+        "town-name": "Puylaurens",
+        "theater-name": "Halle aux grains",
+        "theater-ref": "W8170"
+    },
+    {
+        "town-name": "Puylaurens",
+        "theater-name": "Cinécran 81 Ciné en plein Air",
+        "theater-ref": "W8172"
+    },
+    {
+        "town-name": "Lautrec",
+        "theater-name": "Cinéran81 Salle Polyvalente",
+        "theater-ref": "W8144"
+    },
+    {
+        "town-name": "Lautrec",
+        "theater-name": "Cinécran81 Salle de conférence",
+        "theater-ref": "W4481"
+    },
+    {
+        "town-name": "Montauban",
+        "theater-name": "CGR Montauban",
+        "theater-ref": "P4956"
+    },
+    {
+        "town-name": "Montauban",
+        "theater-name": "CGR Montauban Le Paris",
+        "theater-ref": "P0508"
+    },
+    {
+        "town-name": "Argenteuil",
+        "theater-name": "Centre culturel Le Figuier blanc",
+        "theater-ref": "W9510"
+    },
+    {
+        "town-name": "Argenteuil",
+        "theater-name": "Cinéma Jean Gabin",
+        "theater-ref": "B3516"
+    },
+    {
+        "town-name": "Enghien-les-Bains",
+        "theater-name": "UGC Enghien Le Français",
+        "theater-ref": "B0159"
+    },
+    {
+        "town-name": "Enghien-les-Bains",
+        "theater-name": "Centre des Arts",
+        "theater-ref": "B1386"
+    },
+    {
+        "town-name": "Montigny-lès-Cormeilles",
+        "theater-name": "Mégarama Montigny les Cormeilles",
+        "theater-ref": "W7748"
+    },
+    {
+        "town-name": "Montigny-lès-Cormeilles",
+        "theater-name": "Centre Picasso",
+        "theater-ref": "B0165"
+    },
+    {
+        "town-name": "Ivry-sur-Seine",
+        "theater-name": "Pathé Quai d'Ivry - IMAX",
+        "theater-ref": "B0258"
+    },
+    {
+        "town-name": "Ivry-sur-Seine",
+        "theater-name": "Le Luxy",
+        "theater-ref": "B0137"
+    },
+    {
+        "town-name": "Ivry-sur-Seine",
+        "theater-name": "Apollo",
+        "theater-ref": "Z1234"
+    },
+    {
+        "town-name": "Créteil",
+        "theater-name": "UGC Ciné Cité Créteil",
+        "theater-ref": "B0132"
+    },
+    {
+        "town-name": "Créteil",
+        "theater-name": "Le Palais",
+        "theater-ref": "B0193"
+    },
+    {
+        "town-name": "Créteil",
+        "theater-name": "La Lucarne",
+        "theater-ref": "B0133"
+    },
+    {
+        "town-name": "Arcueil",
+        "theater-name": "Mégarama Arcueil",
+        "theater-ref": "W9411"
+    },
+    {
+        "town-name": "Arcueil",
+        "theater-name": "Espace Jean Vilar",
+        "theater-ref": "B0126"
+    },
+    {
+        "town-name": "Ramatuelle",
+        "theater-name": "Théâtre de Verdure de Ramatuelle",
+        "theater-ref": "W8336"
+    },
+    {
+        "town-name": "Ramatuelle",
+        "theater-name": "Ciné en plein air",
+        "theater-ref": "W8337"
+    },
+    {
+        "town-name": "Toulon",
+        "theater-name": "Pathé Toulon - Liberté",
+        "theater-ref": "P5418"
+    },
+    {
+        "town-name": "Toulon",
+        "theater-name": "Le Royal",
+        "theater-ref": "P0201"
+    },
+    {
+        "town-name": "Toulon",
+        "theater-name": "Le Liberté - scène nationale de Toulon",
+        "theater-ref": "W8301"
+    },
+    {
+        "town-name": "La Valette-du-Var",
+        "theater-name": "Pathé La Valette - IMAX",
+        "theater-ref": "P8316"
+    },
+    {
+        "town-name": "La Valette-du-Var",
+        "theater-name": "Cinéma Henri Verneuil",
+        "theater-ref": "P1059"
+    },
+    {
+        "town-name": "La Valette-du-Var",
+        "theater-name": "Association Ciné Valettoise",
+        "theater-ref": "W8316"
+    },
+    {
+        "town-name": "Cotignac",
+        "theater-name": "Cinéma Marcel Pagnol",
+        "theater-ref": "P2341"
+    },
+    {
+        "town-name": "Cotignac",
+        "theater-name": "Les Toiles du Sud",
+        "theater-ref": "W8357"
+    },
+    {
+        "town-name": "Saint-Tropez",
+        "theater-name": "Cinéma Star",
+        "theater-ref": "W8399"
+    },
+    {
+        "town-name": "Saint-Tropez",
+        "theater-name": "Cinéma La Renaissance",
+        "theater-ref": "P1084"
+    },
+    {
+        "town-name": "Fréjus",
+        "theater-name": "Le Vox",
+        "theater-ref": "P0509"
+    },
+    {
+        "town-name": "Fréjus",
+        "theater-name": "Cinéma plein air au Théatre Romain",
+        "theater-ref": "P8360"
+    },
+    {
+        "town-name": "Le Lavandou",
+        "theater-name": "Cinéma Le Grand Bleu",
+        "theater-ref": "W8390"
+    },
+    {
+        "town-name": "Le Lavandou",
+        "theater-name": "Cinéma plein air théâtre de verdure",
+        "theater-ref": "W8391"
+    },
+    {
+        "town-name": "Six-Fours-les-Plages",
+        "theater-name": "Six n'Etoiles",
+        "theater-ref": "W8314"
+    },
+    {
+        "town-name": "Six-Fours-les-Plages",
+        "theater-name": "L'Ile du Gaou",
+        "theater-ref": "P1080"
+    },
+    {
+        "town-name": "Saint-Raphaël",
+        "theater-name": "Cinémas Lido",
+        "theater-ref": "P1085"
+    },
+    {
+        "town-name": "Saint-Raphaël",
+        "theater-name": "Cinéma plein-air Agay",
+        "theater-ref": "W8370"
+    },
+    {
+        "town-name": "Avignon",
+        "theater-name": "Pathé Cap Sud",
+        "theater-ref": "P0451"
+    },
+    {
+        "town-name": "Avignon",
+        "theater-name": "Utopia-La Manutention",
+        "theater-ref": "P0156"
+    },
+    {
+        "town-name": "Avignon",
+        "theater-name": "Le Pandora",
+        "theater-ref": "P0148"
+    },
+    {
+        "town-name": "Avignon",
+        "theater-name": "Vox",
+        "theater-ref": "P0155"
+    },
+    {
+        "town-name": "Avignon",
+        "theater-name": "Utopia-Republique",
+        "theater-ref": "P0239"
+    },
+    {
+        "town-name": "Cavaillon",
+        "theater-name": "Le Fémina",
+        "theater-ref": "P2236"
+    },
+    {
+        "town-name": "Cavaillon",
+        "theater-name": "La Cigale",
+        "theater-ref": "P2234"
+    },
+    {
+        "town-name": "Cavaillon",
+        "theater-name": "Le Paradiso",
+        "theater-ref": "W8430"
+    },
+    {
+        "town-name": "Goult",
+        "theater-name": "Goult - La Strada Itinérant",
+        "theater-ref": "W8423"
+    },
+    {
+        "town-name": "Goult",
+        "theater-name": "Caveau Aureto - La Strada Itinérant",
+        "theater-ref": "W4220"
+    },
+    {
+        "town-name": "Pertuis",
+        "theater-name": "Le Luberon",
+        "theater-ref": "P2134"
+    },
+    {
+        "town-name": "Pertuis",
+        "theater-name": "Médiathèque Les Carmes - Auditorium",
+        "theater-ref": "W8411"
+    },
+    {
+        "town-name": "Challans",
+        "theater-name": "CinéTriskell",
+        "theater-ref": "P0744"
+    },
+    {
+        "town-name": "Challans",
+        "theater-name": "Le Cinoche",
+        "theater-ref": "W8530"
+    },
+    {
+        "town-name": "Fontenay-le-Comte",
+        "theater-name": "Le Renaissance",
+        "theater-ref": "P0278"
+    },
+    {
+        "town-name": "Fontenay-le-Comte",
+        "theater-name": "Grand Écran Fontenay-le-Comte",
+        "theater-ref": "G034G"
+    },
+    {
+        "town-name": "La Roche-sur-Yon",
+        "theater-name": "Cinéville La Roche-Sur-Yon",
+        "theater-ref": "P1000"
+    },
+    {
+        "town-name": "La Roche-sur-Yon",
+        "theater-name": "Le Concorde",
+        "theater-ref": "P0386"
+    },
+    {
+        "town-name": "Poitiers",
+        "theater-name": "CGR Poitiers Castille",
+        "theater-ref": "P0096"
+    },
+    {
+        "town-name": "Poitiers",
+        "theater-name": "TAP Castille",
+        "theater-ref": "W8600"
+    },
+    {
+        "town-name": "Poitiers",
+        "theater-name": "Le Dietrich",
+        "theater-ref": "P0064"
+    },
+    {
+        "town-name": "Châtellerault",
+        "theater-name": "Cinéma Loft",
+        "theater-ref": "W8610"
+    },
+    {
+        "town-name": "Châtellerault",
+        "theater-name": "Les 400 Coups",
+        "theater-ref": "P0559"
+    },
+    {
+        "town-name": "Châtenois",
+        "theater-name": "Scène Ernest Lambert",
+        "theater-ref": "W8817"
+    },
+    {
+        "town-name": "Châtenois",
+        "theater-name": "Salle des Fêtes - Châtenois",
+        "theater-ref": "W8818"
+    },
+    {
+        "town-name": "Cornimont",
+        "theater-name": "L'Entr'Actes",
+        "theater-ref": "P8812"
+    },
+    {
+        "town-name": "Cornimont",
+        "theater-name": "Centre Polyactivité - Cornimont",
+        "theater-ref": "W8831"
+    },
+    {
+        "town-name": "Gérardmer",
+        "theater-name": "Casino du Lac",
+        "theater-ref": "P9402"
+    },
+    {
+        "town-name": "Gérardmer",
+        "theater-name": "MCL Salle André Bourvil",
+        "theater-ref": "P1930"
+    },
+    {
+        "town-name": "Plombières-les-Bains",
+        "theater-name": "Plombières Cinéma",
+        "theater-ref": "W0370"
+    },
+    {
+        "town-name": "Plombières-les-Bains",
+        "theater-name": "Salle Georges Feydeau",
+        "theater-ref": "W8837"
+    },
+    {
+        "town-name": "Neufchâteau",
+        "theater-name": "Le Scala",
+        "theater-ref": "P0538"
+    },
+    {
+        "town-name": "Neufchâteau",
+        "theater-name": "Néopolis",
+        "theater-ref": "P8830"
+    },
+    {
+        "town-name": "Saint-Dié-des-Vosges",
+        "theater-name": "Empire",
+        "theater-ref": "P0717"
+    },
+    {
+        "town-name": "Saint-Dié-des-Vosges",
+        "theater-name": "Cinéma Excelsior - Espace Georges Sadoul",
+        "theater-ref": "W0079"
+    },
+    {
+        "town-name": "Migennes",
+        "theater-name": "Le Prisme",
+        "theater-ref": "W8941"
+    },
+    {
+        "town-name": "Migennes",
+        "theater-name": "Ciné Migennes",
+        "theater-ref": "W8940"
+    },
+    {
+        "town-name": "Rambouillet",
+        "theater-name": "Vox Odeon - Little Vox",
+        "theater-ref": "B0138"
+    },
+    {
+        "town-name": "Rambouillet",
+        "theater-name": "Megarama - Rambouillet - La Lanterne",
+        "theater-ref": "W7812"
+    },
+    {
+        "town-name": "Mantes-la-Jolie",
+        "theater-name": "CGR Mantes-La-Jolie",
+        "theater-ref": "B0121"
+    },
+    {
+        "town-name": "Mantes-la-Jolie",
+        "theater-name": "Le Chaplin",
+        "theater-ref": "B0028"
+    },
+    {
+        "town-name": "Versailles",
+        "theater-name": "UGC Cyrano",
+        "theater-ref": "B0045"
+    },
+    {
+        "town-name": "Versailles",
+        "theater-name": "UGC Roxane",
+        "theater-ref": "B0044"
+    },
+    {
+        "town-name": "Montigny-le-Bretonneux",
+        "theater-name": "UGC Ciné Cité SQY Ouest",
+        "theater-ref": "B9052"
+    },
+    {
+        "town-name": "Montigny-le-Bretonneux",
+        "theater-name": "Salle Jacques-Brel",
+        "theater-ref": "B0031"
+    }
+]

@@ -103,5 +103,6 @@ def extract_data_from_url(url):
 
     else:
         print(f"Error {response.status_code}")
+        print(url)
 
     return films_list
