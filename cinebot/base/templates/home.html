@@ -25,7 +25,52 @@
         <div class="main-window">
 
             <div class="response-container">
-                <span>response container</span>
+
+                <form method="post">
+                    {% csrf_token %}
+                    <label for="user_date">Quand voulez-vous aller au cinéma ?</label>
+                    <input type="text" name="user_date" id="user_date">
+                    <button type="submit">Valider</button>
+                </form>
+
+                {% if choosen_date %}
+                    <p>Date choisie : {{ choosen_date }}</p>
+
+                    <form method="post">
+                        {% csrf_token %}
+                        <label for="user_genre">Quel genre de film recherchez-vous ?</label>
+                        <input type="text" name="user_genre" id="user_genre">
+                        <button type="submit">Rechercher</button>
+                    </form>
+                {% endif %}
+
+                {% if genre_found %}
+                    <h3>Films du genre {{ genre_found }} à {{ town }} :</h3>
+                    <ul>
+                        {% for movie in matching_movies %}
+                            <li>
+                                <div class="movie-container">
+
+                                    <div class="img">
+                                        <img class="thumbnail-img" src="{{ movie.thumbnail }}" alt="Image {{ movie.title }}">
+                                    </div>
+
+                                    <div class="movie-data">
+                                        <span class="movie-title">{{ movie.title }}</span> - {{ movie.runtime }}
+                                        <ul class="showtimes-list">
+                                            {% for seance in movie.showtimes %}
+                                                <li class="showtime">{{ seance.startsAt|slice:":5" }}</li>
+                                            {% endfor %}
+                                        </ul>
+                                    </div>
+
+                                </div>
+
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
             </div>
 
             <div class="typing-container">

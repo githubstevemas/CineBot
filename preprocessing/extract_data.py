@@ -56,15 +56,22 @@ def extract_data_from_url(url):
     films_list = []
 
     if response.status_code == 200:
+        print("Retrieving OK")
         raw_json = response.json()
 
         films_data = raw_json.get('results', [])
 
         for film_entry in films_data:
 
+            print(film_entry)
+
             film = film_entry.get('movie', {})
 
             title = html.unescape(film.get('title', 'NA'))
+            img_url = html.unescape(film.get('poster').get('url', 'NA'))
+
+            print(img_url)
+
             synopsis = html.unescape(film.get('synopsis', 'NA'))
 
             reviews = 'NA'
@@ -85,6 +92,7 @@ def extract_data_from_url(url):
 
             film_details = {
                 'title': title,
+                'thumbnail': img_url,
                 'runtime': film.get('runtime', 'NA'),
                 'countries': [
                     countries.get('name', 'NA') for countries in
@@ -99,6 +107,9 @@ def extract_data_from_url(url):
                 'reviews': f"{reviews}/10"
 
             }
+
+            # print(film_details['title'])
+
             films_list.append(film_details)
 
     else:

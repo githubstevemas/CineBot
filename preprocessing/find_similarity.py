@@ -42,7 +42,7 @@ def find_movies_by_similarity(user_input):
 
     similarity_threshold = 0.6  # Change for better results
 
-    with open('data/movie_data.json', 'r', encoding='utf-8') as file:
+    with open('../data/movie_data.json', 'r', encoding='utf-8') as file:
         movies = json.load(file)
 
     movies_with_scores = []

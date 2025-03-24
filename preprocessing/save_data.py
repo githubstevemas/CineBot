@@ -17,6 +17,11 @@ def save_movies_json(movies_to_save):
 
     if not os.path.exists("data"):
         os.makedirs("data")
+    try:
 
-    with open('data/movie_data.json', 'w', encoding='utf-8') as json_file:
-        json.dump(movies_to_save, json_file, ensure_ascii=False, indent=4)
+        with open('../data/movie_data.json', 'w', encoding='utf-8') as json_file:
+            json.dump(movies_to_save, json_file, ensure_ascii=False, indent=4)
+        print("Writting json OK")
+
+    except Exception as e:
+        print(e)
